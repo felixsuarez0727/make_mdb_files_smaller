@@ -19,6 +19,10 @@ This project generates a smaller version of a `.mdb` (Microsoft Access Database)
      ```bash
      wsl --install -d Ubuntu
      ```
+     Then, set Ubuntu as your default distribution of WSL by running:
+     ```bash
+     wsl --set-default Ubuntu
+     ```
 
 ### Install `mdb-tools` on Ubuntu WSL:
 ```bash
@@ -30,8 +34,9 @@ sudo apt install mdbtools
 ## Project Installation
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/youruser/your-repo.git
-cd your-repo
+git clone https://github.com/felixsuarez0727/make_mdb_files_smaller.git
+
+cd mdb_small
 ```
 
 ### 2. Create Virtual Environment and Install Dependencies
@@ -39,13 +44,6 @@ In **Windows (PowerShell):**
 ```bash
 python -m venv venv
 .\venv\Scripts\activate
-pip install -r requirements.txt
-```
-
-In **Ubuntu WSL:**
-```bash
-python3 -m venv venv
-source venv/bin/activate
 pip install -r requirements.txt
 ```
 
@@ -57,7 +55,13 @@ pip install -r requirements.txt
 
 ---
 ## Execution
-### 1. Run Main Script (Windows):
+### 1. Set your .mdb file path:
+On the script `generate_csv_files.py`, in the line 44, set the path of the .mdb file that you want to get smaller:
+```bash
+mdb_file = "/path/to/your/mdb_file.mdb" 
+```
+
+### 2. Run Main Script (Windows):
 ```bash
 python main.py
 ```
@@ -66,23 +70,7 @@ This will:
 - Create a new `.mdb` file with filtered data.
 
 ### 2. View Output
-The resulting `.mdb` file will be saved in the project directory.
-
----
-## `requirements.txt` File
-Create it at the project root with:
-```bash
-touch requirements.txt
-```
-Add:
-```
-pandas==2.1.0
-comtypes==1.2.0
-```
-In **Ubuntu WSL**, also install:
-```bash
-pip install mdbtools-py
-```
+The resulting `.mdb` file will be saved in the project directory, within the `nevMdbFilesFolder` under the name of `my_database.mdb`. If you run the `main.py` script multiple times, then you will get different files called `my_database.mdb`, `my_database_1.mdb`, and so on.
 
 ---
 ## Important Notes
@@ -91,10 +79,9 @@ pip install mdbtools-py
 
 ---
 ## Author
-- Name: Your Name
-- Contact: youremail@example.com
+- Name: Felix Suarez
+- Contact: felix@depoiq.com
 
 ---
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
+
 
