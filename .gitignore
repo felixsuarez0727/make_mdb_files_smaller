@@ -1,0 +1,27 @@
+# Ignore virtual environments
+env/
+venv/
+
+# Ignore Python cache files and folders
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore generated databases
+newMdbFiles/
+
+# Ignore CSV output files
+output_csv/
+
+# Log and temporary files
+*.log
+*.tmp
+
+# Configuration and system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE settings
+.vscode/
+.idea/
