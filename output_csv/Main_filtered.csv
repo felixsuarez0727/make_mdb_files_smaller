@@ -1,0 +1,1092 @@
+Index,Timecode,TimeStamp,Temp,PageNum,LineNum,NoDisplay,Text,Native,Redact
+1,,,PG,1,0,0,Page 1,,0
+2,,,LN,1,1,0, 1                                                                      1,,0
+3,,,LN,1,2,0, 2                                UNITED STATES DISTRICT COURT,,0
+4,,,LN,1,3,0, 3                               EASTERN DISTRICT OF LOUISIANA,,0
+5,,,LN,1,4,0, 4                   --------------------------------------------------,,0
+6,,,LN,1,5,0," 5                        REMOTE VIDEO DEPOSITION OF MARC KAYE, MD",,0
+7,,,LN,1,6,0," 6                                   September 16, 2024",,0
+8,,,LN,1,7,0, 7                   --------------------------------------------------,,0
+9,,,LN,1,8,0," 8                   Charles A. Boggs,                Civil Action No.",,0
+10,,,LN,1,9,0, 9                                                    16-13476,,0
+11,,,LN,1,10,0,"10                        Plaintiff,",,0
+12,,,LN,1,11,0,11                   vs.,,0
+13,,,LN,1,12,0,"12                   BP Exploration & Production Inc.,",,0
+14,,,LN,1,13,0,13                   BP America Production Company,,0
+15,,,LN,1,14,0,"14                   & BP PLC,",,0
+16,,,LN,1,15,0,15                         Defendants.,,0
+17,,,LN,1,16,0,16                   --------------------------------------------------,,0
+18,,,LN,1,17,0,17                                                                      2,,0
+19,,,PG,2,0,0,Page 2,,0
+20,,,LN,2,1,0, 1     APPEARANCES:,,0
+21,,,LN,2,2,0, 2 ,,0
+22,,,LN,2,2,0,            LISKOW & LEWIS,,0
+23,,,LN,2,3,0," 3              By Charles Wilmore, Esquire",,0
+24,,,LN,2,3,0,"                By Devin Reid, Esquire",,0
+25,,,LN,2,4,0," 4                701 Poydras Street, Suite 5000",,0
+26,,,LN,2,4,0,"                  New Orleans, Louisiana 70139",,0
+27,,,LN,2,5,0, 5                cbwilmore@liskow.com,,0
+28,,,LN,2,5,0,                  dcreid@liskow.com,,0
+29,,,LN,2,6,0, 6                  On behalf of the Defendants.,,0
+30,,,LN,2,7,0, 7          THE DOWNS LAW GROUP,,0
+31,,,LN,2,7,0,"                By Jason Larey, Esquire",,0
+32,,,LN,2,8,0," 8              By Alexander Blume, Esquire",,0
+33,,,LN,2,8,0,"                  3250 Mary Street, Suite 307",,0
+34,,,LN,2,9,0," 9                Coconut Grove, Florida 33133",,0
+35,,,LN,2,9,0,                  jlarey@downslawgroup.com,,0
+36,,,LN,2,10,0,10                ablume@downslawgroup.com,,0
+37,,,LN,2,10,0,                    On behalf of the Plaintiff.,,0
+38,,,LN,2,11,0,11 ,,0
+39,,,LN,2,11,0,            ALSO PRESENT:  Brian Smith,,0
+40,,,LN,2,12,0,12                         Videographer,,0
+41,,,LN,2,13,0,13 ,,0
+42,,,LN,2,14,0,14 ,,0
+43,,,LN,2,15,0,15 ,,0
+44,,,LN,2,16,0,16 ,,0
+45,,,LN,2,17,0,17 ,,0
+46,,,LN,2,18,0,18 ,,0
+47,,,LN,2,19,0,19 ,,0
+48,,,LN,2,20,0,20 ,,0
+49,,,LN,2,21,0,21 ,,0
+50,,,LN,2,22,0,22 ,,0
+51,,,LN,2,23,0,23 ,,0
+52,,,LN,2,24,0,24 ,,0
+53,,,LN,2,25,0,25 ,,0
+54,,,PG,3,0,0,Page 3,,0
+55,,,LN,3,1,0," 1      Pursuant to Notice, the Remote Video Deposition",,0
+56,,,LN,3,2,0," 2      of MARC KAYE, MD, taken on September 16, 2024,",,0
+57,,,LN,3,3,0," 3      commencing at 4:33 PM Central Time before Annie Sager,",,0
+58,,,LN,3,4,0, 4      Court Reporter and Notary Public within and for the,,0
+59,,,LN,3,5,0, 5      State of Colorado.,,0
+60,,,LN,3,6,0, 6                            INDEX,,0
+61,,,LN,3,7,0, 7      Examination by Mr. Wilmore:                       6,,0
+62,,,LN,3,8,0, 8      EXHIBITS,,0
+63,,,LN,3,9,0, 9      Exhibit 1    Marc Kaye Expert Report             14,,0
+64,,,LN,3,10,0,10      Exhibit 2    Expert Testimony List               21,,0
+65,,,LN,3,11,0,11      Exhibit 3    Curriculum Vitae                    42,,0
+66,,,LN,3,12,0,12      Exhibit 4    Notice of Deposition                59,,0
+67,,,LN,3,13,0,13      Exhibit 5    Subpoena                            62,,0
+68,,,LN,3,14,0,14      Exhibit 6    Plaintiff's Objections              76,,0
+69,,,LN,3,15,0,15      Exhibit 7    Radiographic Image                 168,,0
+70,,,LN,3,16,0,16      Exhibit 8    Radiographic Image                 175,,0
+71,,,LN,3,17,0,17      Exhibit 9    Radiographic Image                 177,,0
+72,,,LN,3,18,0,18      Exhibit 10   Radiographic Image                 181,,0
+73,,,LN,3,19,0,19      Exhibit 11   Radiographic Image                 186,,0
+74,,,LN,3,20,0,20      Exhibit 12   Radiographic Image                 186,,0
+75,,,LN,3,21,0,21      Exhibit 13   Radiographic Image                 187,,0
+76,,,LN,3,22,0,22      Exhibit 14   Radiographic Image                 193,,0
+77,,,LN,3,23,0,23      Exhibit 15   Radiographic Image                 194,,0
+78,,,LN,3,24,0,24      Exhibit 16   Radiographic Image                 199,,0
+79,,,LN,3,25,0,25      Exhibit 17   Radiographic Image                 200,,0
+80,,,PG,4,0,0,Page 4,,0
+81,,,LN,4,1,0, 1      Exhibit 18   Radiographic Image                 211,,0
+82,,,LN,4,2,0, 2      Exhibit 19   Radiographic Image                 213,,0
+83,,,LN,4,3,0, 3      Exhibit 20   Radiographic Image                 214,,0
+84,,,LN,4,4,0, 4 ,,0
+85,,,LN,4,5,0, 5 ,,0
+86,,,LN,4,6,0, 6 ,,0
+87,,,LN,4,7,0, 7 ,,0
+88,,,LN,4,8,0, 8 ,,0
+89,,,LN,4,9,0, 9 ,,0
+90,,,LN,4,10,0,10 ,,0
+91,,,LN,4,11,0,11 ,,0
+92,,,LN,4,12,0,12 ,,0
+93,,,LN,4,13,0,13 ,,0
+94,,,LN,4,14,0,14 ,,0
+95,,,LN,4,15,0,15 ,,0
+96,,,LN,4,16,0,16 ,,0
+97,,,LN,4,17,0,17 ,,0
+98,,,LN,4,18,0,18 ,,0
+99,,,LN,4,19,0,19 ,,0
+100,,,LN,4,20,0,20 ,,0
+101,,,LN,4,21,0,21 ,,0
+102,,,LN,4,22,0,22 ,,0
+103,,,LN,4,23,0,23 ,,0
+104,,,LN,4,24,0,24 ,,0
+105,,,LN,4,25,0,25 ,,0
+106,,,PG,5,0,0,Page 5,,0
+107,,,LN,5,1,0, 1                  P R O C E E D I N G S,,0
+108,3.01,00:00:03,LN,5,2,0, 2                  THE VIDEOGRAPHER:  Good afternoon.  We,,0
+109,4.71,00:00:04,LN,5,3,0, 3             are now on the record.  My name is,,0
+110,6.77,00:00:06,LN,5,4,0, 4             Brian Smith.  I am the videographer,,0
+111,9.3400002,00:00:09,LN,5,5,0, 5             representing Lexitas.,,0
+112,11.8,00:00:11,LN,5,6,0, 6                     This is a video deposition for the,,0
+113,13.68,00:00:13,LN,5,7,0," 7             United States District Court, Eastern",,0
+114,16.200001,00:00:16,LN,5,8,0, 8             District of Louisiana.  Today's date is,,0
+115,19.92,00:00:19,LN,5,9,0," 9             September 16th, 2024 and the video time is",,0
+116,24.370001,00:00:24,LN,5,10,0,10             4:33 PM Central.,,0
+117,28.92,00:00:28,LN,5,11,0,11                     This deposition is taking place,,0
+118,30.77,00:00:30,LN,5,12,0,12             remotely in the matter of Charles A. Boggs,,0
+119,34.630001,00:00:34,LN,5,13,0,13             v. BP Exploration and Production et al.,,0
+120,39.439999,00:00:39,LN,5,14,0,14             The deponent is Dr. Marc Kaye.,,0
+121,42.57,00:00:42,LN,5,15,0,15                     Would all counsel please identify,,0
+122,45.002998,00:00:45,LN,5,16,0,16             themselves.,,0
+123,45.849998,00:00:45,LN,5,17,0,17                  MR. WILMORE:  Yeah.  Charles Wilmore,,0
+124,46.919998,00:00:46,LN,5,18,0,18             and Devin Reid for the BP defendants.,,0
+125,50.380001,00:00:50,LN,5,19,0,19                  MR. LAREY:  Jason Larey for the,,0
+126,51.549999,00:00:51,LN,5,20,0,20             Plaintiff Charles Boggs.,,0
+127,56.84,00:00:56,LN,5,21,0,21                  THE VIDEOGRAPHER:  The court reporter,,0
+128,57.889999,00:00:57,LN,5,22,0,22             is Annie Sager and will now swear in the,,0
+129,59.323002,00:00:59,LN,5,23,0,23             witness.,,0
+130,,,LN,5,24,0,"24                  MARC KAYE, MD,",,0
+131,,,LN,5,25,0,"25     a witness in the above-entitled matter,",,0
+132,,,PG,6,0,0,Page 6,,0
+133,,,LN,6,1,0," 1     after having been first duly sworn,",,0
+134,,,LN,6,2,0, 2     testified under oath as follows:,,0
+135,,,LN,6,3,0, 3                  EXAMINATION,,0
+136,,,LN,6,4,0, 4 BY MR. WILMORE:,,0
+137,75.730003,00:01:15,LN,6,5,0, 5           Q      Hi Dr. Kaye.,,0
+138,76.620003,00:01:16,LN,6,6,0, 6                  We have not had an opportunity to meet,,0
+139,78.132004,00:01:18,LN,6,7,0, 7 before.  My name is Charles Wilmore and I will be the,,0
+140,80.610001,00:01:20,LN,6,8,0, 8 person asking the vast majority of questions today.,,0
+141,83.274002,00:01:23,LN,6,9,0, 9 Okay?,,0
+142,84.507004,00:01:24,LN,6,10,0,10           A      Okay.,,0
+143,85.449997,00:01:25,LN,6,11,0,11           Q      All right.,,0
+144,85.739998,00:01:25,LN,6,12,0,12                  Can you please state your name and,,0
+145,87.010002,00:01:27,LN,6,13,0,13 your business address for the record.,,0
+146,93.379997,00:01:33,LN,6,14,0,14           A      Marc Kaye.  My business address is,,0
+147,96.339996,00:01:36,LN,6,15,0,"15 2805 East Oakland Park Boulevard, Fort Lauderdale,",,0
+148,99.879997,00:01:39,LN,6,16,0,"16 Florida, 33306.  And I also have a business address in",,0
+149,106.651,00:01:46,LN,6,17,0,"17 Colorado at 445 East Cheyenne Mountain Boulevard,",,0
+150,113.88,00:01:53,LN,6,18,0,"18 Colorado Springs, 80906.",,0
+151,119.67,00:01:59,LN,6,19,0,19           Q      Thank you.,,0
+152,121.1,00:02:01,LN,6,20,0,"20                  Now, just from the antler light",,0
+153,124.18,00:02:04,LN,6,21,0,21 fixture in the back can I assume that you are doing,,0
+154,126.59,00:02:06,LN,6,22,0,22 this deposition from Colorado today?,,0
+155,128.28,00:02:08,LN,6,23,0,23           A      That is correct.  We don't have those,,0
+156,130.41,00:02:10,LN,6,24,0,24 fixtures in Florida.,,0
+157,131.42,00:02:11,LN,6,25,0,25           Q      It would have to be a blue marlin or a,,0
+158,,,PG,7,0,0,Page 7,,0
+159,134.32001,00:02:14,LN,7,1,0," 1 wahoo or something, I'm sure, huh?",,0
+160,136.34,00:02:16,LN,7,2,0, 2           A      That is correct.,,0
+161,139.09,00:02:19,LN,7,3,0, 3           Q      Good.  Good.,,0
+162,140.75,00:02:20,LN,7,4,0, 4                  As the court reporter when she swore,,0
+163,142.3,00:02:22,LN,7,5,0," 5 you in, you understood that you are giving testimony",,0
+164,144.48,00:02:24,LN,7,6,0, 6 just like you are in a court of law today?,,0
+165,147.05,00:02:27,LN,7,7,0, 7           A      Yes.,,0
+166,147.909,00:02:27,LN,7,8,0, 8           Q      Okay.,,0
+167,149.21001,00:02:29,LN,7,9,0, 9                  And if you don't understand a question,,0
+168,151.11,00:02:31,LN,7,10,0,10 you are free to ask me to rephrase it.,,0
+169,152.82001,00:02:32,LN,7,11,0,11                  From time to time even I will ask some,,0
+170,154.57001,00:02:34,LN,7,12,0,"12 bad questions, so just let me know that you don't",,0
+171,157.27,00:02:37,LN,7,13,0,13 understand or ask to rephrase and I would be happy to,,0
+172,159.73,00:02:39,LN,7,14,0,14 do it.  Okay?,,0
+173,161.158,00:02:41,LN,7,15,0,15           A      Yes.,,0
+174,161.77,00:02:41,LN,7,16,0,16           Q      If you answer a question is it fair,,0
+175,165.23,00:02:45,LN,7,17,0,17 for us to understand that -- strike that.,,0
+176,167.59,00:02:47,LN,7,18,0,18                  If you answer a question is it fair,,0
+177,169.19,00:02:49,LN,7,19,0,19 for us to assume that you understood the question?,,0
+178,171.27,00:02:51,LN,7,20,0,20           A      Yes.,,0
+179,174.00999,00:02:54,LN,7,21,0,21           Q      Okay.,,0
+180,174.13901,00:02:54,LN,7,22,0,22                  We are going to probably take a little,,0
+181,175.78999,00:02:55,LN,7,23,0,23 while today just because you and I have never had an,,0
+182,177.78,00:02:57,LN,7,24,0,24 opportunity to talk and I got to go to some background,,0
+183,180.0,00:03:00,LN,7,25,0,25 details that I might be able to avoid when I am more,,0
+184,,,PG,8,0,0,Page 8,,0
+185,182.74001,00:03:02,LN,8,1,0, 1 familiar with the witness.,,0
+186,185.36,00:03:05,LN,8,2,0, 2                  So if any point you need a break I'm,,0
+187,187.71001,00:03:07,LN,8,3,0, 3 pretty automatic.  About every hour or hour and,,0
+188,189.75,00:03:09,LN,8,4,0, 4 fifteen minutes I will stop us and we will do a,,0
+189,192.52,00:03:12,LN,8,5,0," 5 bathroom break or something like that, but if at any",,0
+190,194.631,00:03:14,LN,8,6,0, 6 point in the meantime if you want me to stop just let,,0
+191,197.17,00:03:17,LN,8,7,0, 7 me know and as long as there is not a question on the,,0
+192,199.209,00:03:19,LN,8,8,0, 8 table we will take a break.,,0
+193,200.677,00:03:20,LN,8,9,0, 9                  Okay?,,0
+194,201.334,00:03:21,LN,8,10,0,10           A      All right.,,0
+195,202.81,00:03:22,LN,8,11,0,11           Q      Have you been deposed before?,,0
+196,205.573,00:03:25,LN,8,12,0,12           A      Yes.,,0
+197,206.00999,00:03:26,LN,8,13,0,13           Q      How many times?,,0
+198,208.86,00:03:28,LN,8,14,0,14           A      I don't know the exact number.  I,,0
+199,210.47,00:03:30,LN,8,15,0,15 would say over the last 30 or so years probably at,,0
+200,215.444,00:03:35,LN,8,16,0,16 least 500 times.,,0
+201,217.662,00:03:37,LN,8,17,0,"17           Q      Oh, wow.  So you are a pro at this.",,0
+202,221.32001,00:03:41,LN,8,18,0,18                  Then I won't go over too many ground,,0
+203,223.758,00:03:43,LN,8,19,0,19 rules here.  I will just say that this is a little bit,,0
+204,226.314,00:03:46,LN,8,20,0,"20 unusual, I guess, not so much this day and age, but",,0
+205,229.157,00:03:49,LN,8,21,0,21 probably when you were at the height of doing your,,0
+206,231.752,00:03:51,LN,8,22,0,22 depositions and the height of me taking them we used to,,0
+207,234.19,00:03:54,LN,8,23,0,23 do them in person.,,0
+208,235.49001,00:03:55,LN,8,24,0,24                  So a little bit harder now in the,,0
+209,237.69,00:03:57,LN,8,25,0,25 sense that we got to let each other finish our question,,0
+210,,,PG,9,0,0,Page 9,,0
+211,240.71001,00:04:00,LN,9,1,0, 1 for sure and answer for sure so the court reporter can,,0
+212,243.27,00:04:03,LN,9,2,0," 2 take everything down, but we will just do our best to",,0
+213,245.47501,00:04:05,LN,9,3,0," 3 get through that, but try to let me finish my question",,0
+214,248.31,00:04:08,LN,9,4,0, 4 and I will try to let you finish your answer.,,0
+215,258.87,00:04:18,LN,9,5,0, 5                  Okay?,,0
+216,258.92999,00:04:18,LN,9,6,0, 6           A      Yes.,,0
+217,259.14999,00:04:19,LN,9,7,0, 7           Q      Do you have anybody else there with,,0
+218,260.76999,00:04:20,LN,9,8,0," 8 you for the deposition, Doctor?",,0
+219,264.99899,00:04:24,LN,9,9,0, 9           A      No.,,0
+220,265.39999,00:04:25,LN,9,10,0,10           Q      And I see other than the screen kind,,0
+221,267.42999,00:04:27,LN,9,11,0,11 of what you look into or the video it seems like you,,0
+222,270.79999,00:04:30,LN,9,12,0,12 are looking off at times.,,0
+223,273.85999,00:04:33,LN,9,13,0,13                  What are you looking at?,,0
+224,275.5,00:04:35,LN,9,14,0,"14           A      My computer, the other computer.",,0
+225,278.01001,00:04:38,LN,9,15,0,15           Q      So you got basically two monitors in,,0
+226,280.04001,00:04:40,LN,9,16,0,16 there with you?,,0
+227,281.82999,00:04:41,LN,9,17,0,"17           A      I have this laptop that I am on, and",,0
+228,283.92001,00:04:43,LN,9,18,0,18 then I have a desktop computer off to the left side.,,0
+229,290.64001,00:04:50,LN,9,19,0,19           Q      Okay.  Okay.,,0
+230,290.98999,00:04:50,LN,9,20,0,20                  So you got two separate computers,,0
+231,294.20999,00:04:54,LN,9,21,0,21 there going.  Do you have any like documents or,,0
+232,296.79999,00:04:56,LN,9,22,0,22 anything that you are looking at or what is it that you,,0
+233,300.39001,00:05:00,LN,9,23,0,23 are consulting that other monitor for?,,0
+234,303.60001,00:05:03,LN,9,24,0,"24           A      To be honest with you, I am looking at",,0
+235,306.72,00:05:06,LN,9,25,0,25 my calendar for tomorrow.,,0
+236,,,PG,10,0,0,Page 10,,0
+237,307.94,00:05:07,LN,10,1,0, 1           Q      All right.,,0
+238,309.75,00:05:09,LN,10,2,0, 2           A      I have the images or CT loaded on the,,0
+239,315.53,00:05:15,LN,10,3,0, 3 other computer.  I can't load them on this laptop.,,0
+240,320.45001,00:05:20,LN,10,4,0," 4           Q      Okay.  Well, I'll tell you what.",,0
+241,322.54001,00:05:22,LN,10,5,0, 5 Let's make a deal here.,,0
+242,322.81601,00:05:22,LN,10,6,0, 6                  I am going to try to pull up,,0
+243,323.45001,00:05:23,LN,10,7,0, 7 everything on the main screen here that we are looking,,0
+244,327.20999,00:05:27,LN,10,8,0, 8 at.  That way it can be recorded as part of the,,0
+245,330.81,00:05:30,LN,10,9,0, 9 deposition because there is no way to capture what,,0
+246,332.97,00:05:32,LN,10,10,0,10 you're looking at over there.,,0
+247,334.70999,00:05:34,LN,10,11,0,11           A      That's fine.  That will work.  Yes.,,0
+248,336.87,00:05:36,LN,10,12,0,12 Good.,,0
+249,337.20999,00:05:37,LN,10,13,0,13           Q      Yeah.  If any point that you need to,,0
+250,339.42001,00:05:39,LN,10,14,0,14 stop me or ask me to look at something else why don't,,0
+251,341.84,00:05:41,LN,10,15,0,15 we just talk about it and we will make sure we know,,0
+252,343.65701,00:05:43,LN,10,16,0,16 what you are looking at.,,0
+253,344.67001,00:05:44,LN,10,17,0,17                  Okay?,,0
+254,345.17899,00:05:45,LN,10,18,0,18           A      Okay.,,0
+255,348.11401,00:05:48,LN,10,19,0,19           Q      All right.,,0
+256,348.37601,00:05:48,LN,10,20,0,"20                  Now, as I appreciate it, you issued a",,0
+257,350.496,00:05:50,LN,10,21,0,"21 July 5th, 2024 report in this case covering Mr. Boggs,",,0
+258,354.64999,00:05:54,LN,10,22,0,22 is that right?,,0
+259,356.35101,00:05:56,LN,10,23,0,23           A      Yes.,,0
+260,356.98999,00:05:56,LN,10,24,0,24           Q      All right.,,0
+261,357.44,00:05:57,LN,10,25,0,25                  And as I appreciate it you are not a,,0
+262,,,PG,11,0,0,Page 11,,0
+263,359.48001,00:05:59,LN,11,1,0, 1 treating physician for Mr. Boggs.  You have been,,0
+264,361.54999,00:06:01,LN,11,2,0, 2 retained in the case as an expert.,,0
+265,363.98001,00:06:03,LN,11,3,0, 3                  Is that fair?,,0
+266,365.92899,00:06:05,LN,11,4,0, 4           A      Yes.,,0
+267,366.66,00:06:06,LN,11,5,0, 5           Q      And Mr. Boggs is not and has never,,0
+268,368.5,00:06:08,LN,11,6,0, 6 been your patient?,,0
+269,369.81,00:06:09,LN,11,7,0, 7           A      That is correct.,,0
+270,371.59,00:06:11,LN,11,8,0, 8           Q      And this July 20 -- sorry -- July 5th,,0
+271,374.01999,00:06:14,LN,11,9,0," 9 report, it's the only report you have issued in this",,0
+272,376.526,00:06:16,LN,11,10,0,10 case?,,0
+273,377.37201,00:06:17,LN,11,11,0,11           A      Yes.,,0
+274,382.35001,00:06:22,LN,11,12,0,12           Q      And I know down at the bottom you,,0
+275,383.70001,00:06:23,LN,11,13,0,13 mentioned that Colorado Springs address.,,0
+276,385.60001,00:06:25,LN,11,14,0,14                  That is the -- that is the other,,0
+277,387.09,00:06:27,LN,11,15,0,15 address that you gave us at the beginning of the,,0
+278,389.34,00:06:29,LN,11,16,0,16 deposition as your other business address?,,0
+279,392.04999,00:06:32,LN,11,17,0,17           A      Yes.,,0
+280,392.45801,00:06:32,LN,11,18,0,18           Q      Okay.,,0
+281,393.66,00:06:33,LN,11,19,0,19                  How long have you been at this,,0
+282,394.73199,00:06:34,LN,11,20,0,20 Colorado address?,,0
+283,402.62,00:06:42,LN,11,21,0,21           A      I think a little over a year.,,0
+284,405.64001,00:06:45,LN,11,22,0,22           Q      Okay.  And how long before that were,,0
+285,408.0,00:06:48,LN,11,23,0,23 you at the Florida address?,,0
+286,412.78,00:06:52,LN,11,24,0,24           A      I think approximately twenty years.  I,,0
+287,415.39999,00:06:55,LN,11,25,0,"25 still have the Florida address, but yes.",,0
+288,,,PG,12,0,0,Page 12,,0
+289,418.45001,00:06:58,LN,12,1,0, 1           Q      Yeah.  Is the Florida address -- is,,0
+290,421.34,00:07:01,LN,12,2,0, 2 that like your office like where you do the,,0
+291,423.37,00:07:03,LN,12,3,0, 3 Collier Radiology out of?,,0
+292,425.20001,00:07:05,LN,12,4,0, 4                  What is that main address?,,0
+293,427.45001,00:07:07,LN,12,5,0, 5           A      That main address is where my private,,0
+294,429.41,00:07:09,LN,12,6,0, 6 mailbox is in Florida.,,0
+295,432.55899,00:07:12,LN,12,7,0, 7           Q      Okay.  Okay.,,0
+296,442.47,00:07:22,LN,12,8,0, 8                  So I have got a list of materials here,,0
+297,445.42999,00:07:25,LN,12,9,0, 9 that we are going to go through in just a minute on,,0
+298,447.60999,00:07:27,LN,12,10,0,"10 page two of your report, but before we get there I",,0
+299,452.10001,00:07:32,LN,12,11,0,11 wanted to ask you.  You have identified a handful of,,0
+300,455.20001,00:07:35,LN,12,12,0,12 Mr. Boggs' experts as part of your review materials.,,0
+301,458.28,00:07:38,LN,12,13,0,13                  Have you looked at any expert reports,,0
+302,460.12,00:07:40,LN,12,14,0,14 from BP in this case?,,0
+303,462.01999,00:07:42,LN,12,15,0,"15           A      I just received those, I think, last",,0
+304,463.97198,00:07:43,LN,12,16,0,16 week.,,0
+305,465.508,00:07:45,LN,12,17,0,17           Q      Okay.,,0
+306,466.94,00:07:46,LN,12,18,0,18                  And what day do you think you got,,0
+307,470.09,00:07:50,LN,12,19,0,19 them?,,0
+308,470.51999,00:07:50,LN,12,20,0,20           A      I'm going to have to look on my,,0
+309,471.57599,00:07:51,LN,12,21,0,21 computer to see.  They were downloaded to me.,,0
+310,475.62799,00:07:55,LN,12,22,0,22           Q      Okay.,,0
+311,508.89001,00:08:28,LN,12,23,0,23           A      I think I received those,,0
+312,510.48001,00:08:30,LN,12,24,0,"24 September 11th, 2024.",,0
+313,514.63,00:08:34,LN,12,25,0,25           Q      Okay.,,0
+314,,,PG,13,0,0,Page 13,,0
+315,515.81,00:08:35,LN,13,1,0, 1                  And since you've got it up on your,,0
+316,517.039,00:08:37,LN,13,2,0, 2 screen there can you tell me which reports you,,0
+317,518.43402,00:08:38,LN,13,3,0, 3 received?,,0
+318,520.22998,00:08:40,LN,13,4,0," 4           A      David Smith, Matthew Weir and Steven",,0
+319,525.01001,00:08:45,LN,13,5,0, 5 -- Steve Nelson.,,0
+320,529.65002,00:08:49,LN,13,6,0, 6           Q      And those are the only three you,,0
+321,532.79602,00:08:52,LN,13,7,0, 7 received?,,0
+322,533.78998,00:08:53,LN,13,8,0, 8           A      Let me see.  Unless there was another,,0
+323,535.41998,00:08:55,LN,13,9,0," 9 one.  If you shoot me a name, I may be able to find it.",,0
+324,554.40997,00:09:14,LN,13,10,0,"10 I believe those are the -- let me just check this.  No,",,0
+325,566.48999,00:09:26,LN,13,11,0,11 I think that's it.,,0
+326,568.08002,00:09:28,LN,13,12,0,12           Q      Okay.  Fair enough.,,0
+327,569.59998,00:09:29,LN,13,13,0,13                  And did you review all three of those?,,0
+328,571.98999,00:09:31,LN,13,14,0,14 You said you received them.  Did you review all three,,0
+329,577.16998,00:09:37,LN,13,15,0,15 of those?,,0
+330,577.85999,00:09:37,LN,13,16,0,16           A      No.,,0
+331,577.99799,00:09:37,LN,13,17,0,17           Q      Okay.,,0
+332,579.58002,00:09:39,LN,13,18,0,"18           A      Not in detail.  Not in detail, no.",,0
+333,580.98999,00:09:40,LN,13,19,0,19           Q      Okay.,,0
+334,581.25,00:09:41,LN,13,20,0,"20                  Well, tell me is there any of those",,0
+335,584.78998,00:09:44,LN,13,21,0,21 three did you review in detail?,,0
+336,586.92999,00:09:46,LN,13,22,0,22           A      I looked at Dr. Smith's report.,,0
+337,596.45001,00:09:56,LN,13,23,0,23           Q      Okay.  And is that the one you focused,,0
+338,599.26501,00:09:59,LN,13,24,0,24 on?,,0
+339,599.48999,00:09:59,LN,13,25,0,"25           A      Well, that was the one that I read",,0
+340,,,PG,14,0,0,Page 14,,0
+341,600.84698,00:10:00,LN,14,1,0, 1 completely.,,0
+342,603.23199,00:10:03,LN,14,2,0, 2           Q      Okay.,,0
+343,605.02002,00:10:05,LN,14,3,0, 3                  And the other -- the other ones you,,0
+344,606.29999,00:10:06,LN,14,4,0, 4 just kind of read through?,,0
+345,608.37,00:10:08,LN,14,5,0, 5                  Did I get that right?,,0
+346,610.07001,00:10:10,LN,14,6,0, 6                  MR. LAREY:  Object to form.,,0
+347,610.76001,00:10:10,LN,14,7,0, 7           A      I'm not sure I read through them.  I,,0
+348,612.63,00:10:12,LN,14,8,0, 8 may have looked at it briefly.,,0
+349,619.46002,00:10:19,LN,14,9,0, 9           Q      You got them and you looked through,,0
+350,621.20001,00:10:21,LN,14,10,0,"10 them, but not going to tell me if you read through them",,0
+351,624.90997,00:10:24,LN,14,11,0,11 or not.  All right.  We will come back to those.,,0
+352,,,LN,14,12,0,12                  (Exhibit 1 marked.),,0
+353,631.64001,00:10:31,LN,14,13,0,"13           Q      I want to mark your July 5th, 2000",,0
+354,634.37,00:10:34,LN,14,14,0,"14 report.  I'm going to pull it up first as tab 1,",,0
+355,638.35999,00:10:38,LN,14,15,0,"15 please, Brian.  I just want to make sure the doctor and",,0
+356,641.67999,00:10:41,LN,14,16,0,"16 I are talking about the right report.  All right,",,0
+357,649.95001,00:10:49,LN,14,17,0,17 Doctor.  It should be up on the screen right here in,,0
+358,653.62,00:10:53,LN,14,18,0,18 front of you.,,0
+359,657.01001,00:10:57,LN,14,19,0,19           A      Okay.  Yes.  I have a copy in front of,,0
+360,659.42999,00:10:59,LN,14,20,0,20 me now.,,0
+361,660.51001,00:11:00,LN,14,21,0,21           Q      Okay.  Like a printed-out copy?,,0
+362,662.13,00:11:02,LN,14,22,0,22           A      Yeah.  Exactly.,,0
+363,663.32001,00:11:03,LN,14,23,0,23           Q      Okay.  Perfect.  All right.,,0
+364,664.83002,00:11:04,LN,14,24,0,"24                  Well, just for housekeeping right now",,0
+365,667.39001,00:11:07,LN,14,25,0,25 I want to mark this as Exhibit Number 1.  And this is a,,0
+366,,,PG,15,0,0,Page 15,,0
+367,672.81,00:11:12,LN,15,1,0," 1 copy of your July 5th, 2024 report.",,0
+368,675.40997,00:11:15,LN,15,2,0," 2                  And Doctor, as you mentioned, if you",,0
+369,676.76001,00:11:16,LN,15,3,0," 3 will keep it handy there, it may be easier for you to",,0
+370,679.64001,00:11:19,LN,15,4,0, 4 look at the physical copy than having to pop it up,,0
+371,682.20001,00:11:22,LN,15,5,0, 5 every time.,,0
+372,683.28497,00:11:23,LN,15,6,0, 6           A      Sure.,,0
+373,683.75,00:11:23,LN,15,7,0," 7           Q      Brian, you can pull it back down.",,0
+374,691.78998,00:11:31,LN,15,8,0," 8                  Doctor, are there any errors or",,0
+375,694.06,00:11:34,LN,15,9,0, 9 omissions or anything in this July 5th report that you,,0
+376,696.48999,00:11:36,LN,15,10,0,10 would like to tell me about now before we get started?,,0
+377,700.13702,00:11:40,LN,15,11,0,11                  MR. LAREY:  Object to form.,,0
+378,711.45001,00:11:51,LN,15,12,0,12           A      Not that I know of that I am aware of.,,0
+379,714.04999,00:11:54,LN,15,13,0,"13           Q      Okay.  And as I appreciate it, I am",,0
+380,716.07001,00:11:56,LN,15,14,0,14 just taking a look at it.,,0
+381,717.96997,00:11:57,LN,15,15,0,15                  The report itself is pages one through,,0
+382,720.48999,00:12:00,LN,15,16,0,"16 three, right?",,0
+383,722.88397,00:12:02,LN,15,17,0,17           A      Yes.,,0
+384,724.08002,00:12:04,LN,15,18,0,18           Q      And all of your substantive analysis,,0
+385,727.32001,00:12:07,LN,15,19,0,19 and opinions would be found on page three?,,0
+386,733.19,00:12:13,LN,15,20,0,"20           A      I believe so, yes.",,0
+387,735.92499,00:12:15,LN,15,21,0,21           Q      Okay.,,0
+388,736.66998,00:12:16,LN,15,22,0,"22                  Doctor, have you served as an expert",,0
+389,738.84998,00:12:18,LN,15,23,0,23 witness in federal court before?,,0
+390,740.875,00:12:20,LN,15,24,0,24           A      Yes.,,0
+391,741.84198,00:12:21,LN,15,25,0,25           Q      Okay.,,0
+392,,,PG,16,0,0,Page 16,,0
+393,743.17297,00:12:23,LN,16,1,0, 1                  And how many times do you think you,,0
+394,746.77301,00:12:26,LN,16,2,0, 2 have done that?,,0
+395,748.21997,00:12:28,LN,16,3,0, 3           A      Are you saying at trial or federal,,0
+396,750.91998,00:12:30,LN,16,4,0, 4 cases or actually appearing in trial?,,0
+397,755.34998,00:12:35,LN,16,5,0," 5           Q      Well, I guess we can take it two",,0
+398,756.64001,00:12:36,LN,16,6,0," 6 different ways.  Federal cases, you have been in a",,0
+399,758.73999,00:12:38,LN,16,7,0," 7 number of federal cases as an expert witness, fair?",,0
+400,762.47699,00:12:42,LN,16,8,0, 8           A      Yes.,,0
+401,762.78003,00:12:42,LN,16,9,0, 9           Q      And how many times have you actually,,0
+402,764.72998,00:12:44,LN,16,10,0,10 appeared in trial in federal cases?,,0
+403,769.65997,00:12:49,LN,16,11,0,11           A      I don't know the exact number.,,0
+404,770.96002,00:12:50,LN,16,12,0,12 Something like ten or twelve would be a ballpark,,0
+405,773.91901,00:12:53,LN,16,13,0,13 estimate.,,0
+406,775.50299,00:12:55,LN,16,14,0,14           Q      Okay.,,0
+407,779.34003,00:12:59,LN,16,15,0,15                  Then are you familiar with Rule 26,,0
+408,781.96002,00:13:01,LN,16,16,0,16 which covers expert reports for expert witnesses in,,0
+409,785.33002,00:13:05,LN,16,17,0,17 federal matters?,,0
+410,786.72998,00:13:06,LN,16,18,0,18                  MR. LAREY:  Object to form.,,0
+411,790.13,00:13:10,LN,16,19,0,"19           A      I am not sure what Rule 26 is, but I",,0
+412,796.97998,00:13:16,LN,16,20,0,20 think I have an idea of what is required for reports in,,0
+413,800.83002,00:13:20,LN,16,21,0,21 federal cases.,,0
+414,,,LN,16,22,0,22 BY MR. WILMORE:,,0
+415,802.29999,00:13:22,LN,16,23,0,"23           Q      Okay.  Well, let's just kind of go",,0
+416,805.06,00:13:25,LN,16,24,0,24 through that quickly.,,0
+417,807.31,00:13:27,LN,16,25,0,25                  So Rule 26 is just a mandate of what,,0
+418,,,PG,17,0,0,Page 17,,0
+419,810.63,00:13:30,LN,17,1,0, 1 an expert report would have to contain.  Okay?  And I,,0
+420,814.23999,00:13:34,LN,17,2,0, 2 just want to go through a few of those things.,,0
+421,816.44,00:13:36,LN,17,3,0," 3                  For example, you have to have a",,0
+422,818.48999,00:13:38,LN,17,4,0, 4 complete statement of all opinions that you will,,0
+423,821.71002,00:13:41,LN,17,5,0, 5 express and the basis and reasons for them.,,0
+424,824.51001,00:13:44,LN,17,6,0," 6                  That makes sense, right?",,0
+425,827.19,00:13:47,LN,17,7,0, 7                  MR. LAREY:  Object to form.,,0
+426,830.46997,00:13:50,LN,17,8,0," 8           A      It sounds like it makes sense, yes.",,0
+427,,,LN,17,9,0, 9 BY MR. WILMORE:,,0
+428,833.03003,00:13:53,LN,17,10,0,10           Q      And that's -- you have tried to do,,0
+429,835.51001,00:13:55,LN,17,11,0,"11 that in the preparation of your July 5th expert report,",,0
+430,839.01001,00:13:59,LN,17,12,0,12 right?,,0
+431,841.90997,00:14:01,LN,17,13,0,13           A      Yes.,,0
+432,842.07001,00:14:02,LN,17,14,0,14           Q      All right.,,0
+433,842.23999,00:14:02,LN,17,15,0,15                  And you have to identify the facts or,,0
+434,845.06,00:14:05,LN,17,16,0,16 the data considered by the witness in forming those,,0
+435,848.66498,00:14:08,LN,17,17,0,17 opinions.,,0
+436,849.48999,00:14:09,LN,17,18,0,"18                  That makes sense too, right?",,0
+437,851.28198,00:14:11,LN,17,19,0,19                  MR. LAREY:  Form.,,0
+438,851.72998,00:14:11,LN,17,20,0,20           A      I'm sorry.  Can you repeat that?,,0
+439,854.16199,00:14:14,LN,17,21,0,21           Q      Yeah.,,0
+440,854.41998,00:14:14,LN,17,22,0,22                  Your expert report also has to,,0
+441,855.84003,00:14:15,LN,17,23,0,23 identify the facts or data considered by the witness in,,0
+442,860.03003,00:14:20,LN,17,24,0,24 forming those opinions.,,0
+443,862.14001,00:14:22,LN,17,25,0,25                  MR. LAREY:  The same objection.,,0
+444,,,PG,18,0,0,Page 18,,0
+445,863.53998,00:14:23,LN,18,1,0," 1           Q      That makes sense, right?",,0
+446,867.53998,00:14:27,LN,18,2,0," 2           A      Well, you are asking me if it makes",,0
+447,868.97998,00:14:28,LN,18,3,0, 3 sense.  I think to some degree you have to put in the,,0
+448,874.41998,00:14:34,LN,18,4,0," 4 reason you came to that conclusion, but I am not sure",,0
+449,879.41998,00:14:39,LN,18,5,0," 5 that it's required that you have every factor, every",,0
+450,883.13,00:14:43,LN,18,6,0, 6 reason listed in your report.,,0
+451,888.36603,00:14:48,LN,18,7,0, 7           Q      Okay.,,0
+452,889.08002,00:14:49,LN,18,8,0," 8                  Well, did you intend to include all",,0
+453,890.72699,00:14:50,LN,18,9,0, 9 the facts or data that you considered in forming your,,0
+454,893.67999,00:14:53,LN,18,10,0,10 opinions in this case?,,0
+455,894.90002,00:14:54,LN,18,11,0,11                  MR. LAREY:  Objection.,,0
+456,895.51001,00:14:55,LN,18,12,0,12           A      I think I intended to put an overview,,0
+457,897.53003,00:14:57,LN,18,13,0,13 of the facts and data.,,0
+458,900.39502,00:15:00,LN,18,14,0,14           Q      Okay.,,0
+459,900.96997,00:15:00,LN,18,15,0,15                  So is there something that you,,0
+460,902.68103,00:15:02,LN,18,16,0,16 intentionally left out?,,0
+461,904.29999,00:15:04,LN,18,17,0,"17           A      No.  That's not what I said, no.",,0
+462,906.78003,00:15:06,LN,18,18,0,"18           Q      Well, that's what I am asking.",,0
+463,908.03003,00:15:08,LN,18,19,0,"19                  I mean when you say ""overview"" I am",,0
+464,910.09003,00:15:10,LN,18,20,0,20 trying to determine what it is that you think that you,,0
+465,912.98999,00:15:12,LN,18,21,0,21 might not have included in here.,,0
+466,916.12,00:15:16,LN,18,22,0,"22           A      Well, I mean I don't think that I",,0
+467,924.02002,00:15:24,LN,18,23,0,23 included every single fact or item in detail in the,,0
+468,930.57898,00:15:30,LN,18,24,0,24 report.,,0
+469,931.59003,00:15:31,LN,18,25,0,"25                  For example, if I was in federal court",,0
+470,,,PG,19,0,0,Page 19,,0
+471,938.14001,00:15:38,LN,19,1,0, 1 talking about degenerative disc disease I don't --,,0
+472,945.75,00:15:45,LN,19,2,0, 2 don't necessarily go into every detail about the,,0
+473,950.28003,00:15:50,LN,19,3,0," 3 findings of degenerative disc disease, what causes it",,0
+474,953.96997,00:15:53,LN,19,4,0, 4 and so on and so forth.  I may just say this is,,0
+475,956.52002,00:15:56,LN,19,5,0, 5 degenerative disc disease.,,0
+476,960.84003,00:16:00,LN,19,6,0, 6           Q      Okay.  Object to the response.  Let me,,0
+477,963.44,00:16:03,LN,19,7,0, 7 try to do it this way.,,0
+478,964.28003,00:16:04,LN,19,8,0, 8                  As you sit here at this very moment in,,0
+479,966.65997,00:16:06,LN,19,9,0, 9 time is there any particular facts or data that you,,0
+480,969.58002,00:16:09,LN,19,10,0,10 believe you omitted that should have been included in,,0
+481,973.60999,00:16:13,LN,19,11,0,11 your Rule 26 expert report?,,0
+482,975.92999,00:16:15,LN,19,12,0,12                  MR. LAREY:  Object to form.,,0
+483,977.65002,00:16:17,LN,19,13,0,"13           A      Well, you are asking me for basically",,0
+484,979.65997,00:16:19,LN,19,14,0,14 a legal opinion what is required in Rule 26.  I don't,,0
+485,983.5,00:16:23,LN,19,15,0,15 know.  I think I gave an overview of my opinions.  We,,0
+486,987.29999,00:16:27,LN,19,16,0,16 can go into detail about them.,,0
+487,990.57098,00:16:30,LN,19,17,0,17           Q      Okay.,,0
+488,991.03998,00:16:31,LN,19,18,0,18           A      But I gave an overview.,,0
+489,993.224,00:16:33,LN,19,19,0,19           Q      Okay.,,0
+490,993.65997,00:16:33,LN,19,20,0,"20                  No, look, I believe you.  And I think",,0
+491,995.40002,00:16:35,LN,19,21,0,21 what we may be getting confused on is the difference,,0
+492,998.15002,00:16:38,LN,19,22,0,"22 between the first thing I asked you about, the complete",,0
+493,1001.16,00:16:41,LN,19,23,0,23 statement of all your opinions.,,0
+494,1002.91,00:16:42,LN,19,24,0,24                  I think that's what you are bringing,,0
+495,1003.93,00:16:43,LN,19,25,0,25 it back to is the overview of your opinions.  I believe,,0
+496,,,PG,20,0,0,Page 20,,0
+497,1006.49,00:16:46,LN,20,1,0, 1 that's in here.  I am not -- I am not disagreeing with,,0
+498,1009.1,00:16:49,LN,20,2,0, 2 you.  I am not talking about whether or not you,,0
+499,1011.64,00:16:51,LN,20,3,0, 3 included an overview of your opinions in your report.,,0
+500,1014.693,00:16:54,LN,20,4,0, 4 Okay?,,0
+501,1014.92,00:16:54,LN,20,5,0, 5                  I am switching now and I want to talk,,0
+502,1016.55,00:16:56,LN,20,6,0," 6 about facts and data, and all I am asking you is did",,0
+503,1021.25,00:17:01,LN,20,7,0," 7 you include all the -- let's just do it this way, all",,0
+504,1024.1,00:17:04,LN,20,8,0, 8 the important facts or data that you considered in,,0
+505,1027.52,00:17:07,LN,20,9,0, 9 developing your opinions in this case?,,0
+506,1029.96,00:17:09,LN,20,10,0,10                  MR. LAREY:  Form objection.,,0
+507,1035.74,00:17:15,LN,20,11,0,"11           A      Well, I think many of the facts and",,0
+508,1037.4399,00:17:17,LN,20,12,0,12 data are contained within the medical records and the,,0
+509,1041.03,00:17:21,LN,20,13,0,13 radiology imaging.,,0
+510,1044.8879,00:17:24,LN,20,14,0,14           Q      Okay.,,0
+511,1045.66,00:17:25,LN,20,15,0,"15                  And where that was important to you,",,0
+512,1047.6,00:17:27,LN,20,16,0,16 you specifically would have included that in your,,0
+513,1050.38,00:17:30,LN,20,17,0,"17 report, fair?",,0
+514,1052.01,00:17:32,LN,20,18,0,18           A      No.  I think I would have given an,,0
+515,1053.67,00:17:33,LN,20,19,0,19 overview of that without going into extensive detail,,0
+516,1059.863,00:17:39,LN,20,20,0,20 necessarily.,,0
+517,1061.49,00:17:41,LN,20,21,0,21           Q      All right.  All right.,,0
+518,1063.186,00:17:43,LN,20,22,0,"22                  Well, I'll tell you what.",,0
+519,1065.5601,00:17:45,LN,20,23,0,23                  When we get to that point in your,,0
+520,1067.25,00:17:47,LN,20,24,0,24 report where you think you gave me an overview as,,0
+521,1070.47,00:17:50,LN,20,25,0,"25 opposed to including the actual facts or data, please",,0
+522,,,PG,21,0,0,Page 21,,0
+523,1073.63,00:17:53,LN,21,1,0, 1 stop me then and tell me when we get there.,,0
+524,1077.5551,00:17:57,LN,21,2,0, 2                  Okay?,,0
+525,1077.96,00:17:57,LN,21,3,0," 3           A      I will try to, yes.",,0
+526,1079.5699,00:17:59,LN,21,4,0, 4           Q      All right.,,0
+527,1080.6899,00:18:00,LN,21,5,0, 5                  And did you include any exhibits that,,0
+528,1084.33,00:18:04,LN,21,6,0, 6 you plan to use to summarize or support your opinions,,0
+529,1089.587,00:18:09,LN,21,7,0, 7 in this case?,,0
+530,1090.6899,00:18:10,LN,21,8,0, 8           A      I didn't attach any exhibits to the,,0
+531,1093.722,00:18:13,LN,21,9,0, 9 report.,,0
+532,1094.45,00:18:14,LN,21,10,0,"10           Q      Okay.  Not at all, right?",,0
+533,1097.98,00:18:17,LN,21,11,0,11           A      There's no exhibits attached.  That is,,0
+534,1099.958,00:18:19,LN,21,12,0,12 correct.,,0
+535,1101.048,00:18:21,LN,21,13,0,13           Q      All right.,,0
+536,1103.6121,00:18:23,LN,21,14,0,14                  And did you include your,,0
+537,1105.45,00:18:25,LN,21,15,0,15 qualifications including a list of publications,,0
+538,1108.48,00:18:28,LN,21,16,0,16 authored in the previous ten years?,,0
+539,1111.5601,00:18:31,LN,21,17,0,"17           A      Well, I think I attached the CV.",,0
+540,1113.35,00:18:33,LN,21,18,0,18 That's what I routinely do.,,0
+541,1115.96,00:18:35,LN,21,19,0,19           Q      Okay.  All right.  Fair enough.  I did,,0
+542,1127.6801,00:18:47,LN,21,20,0,20 get your CV.  All right.  So let's look at your --,,0
+543,1130.3,00:18:50,LN,21,21,0,"21 Brian, please pull up tab 2.  This is your testimony",,0
+544,1145.6,00:19:05,LN,21,22,0,22 list.  All right.,,0
+545,,,LN,21,23,0,23                  (Exhibit 2 marked.),,0
+546,1146.78,00:19:06,LN,21,24,0,"24           Q      Now, Doctor, this looks like -- this",,0
+547,1148.86,00:19:08,LN,21,25,0,"25 looks familiar to you, huh?",,0
+548,,,PG,22,0,0,Page 22,,0
+549,1149.88,00:19:09,LN,22,1,0, 1                  You put this together?,,0
+550,1151.63,00:19:11,LN,22,2,0, 2           A      Yes.  I don't know when that was,,0
+551,1153.96,00:19:13,LN,22,3,0," 3 submitted.  Well, can you go to the last entry on it?",,0
+552,1163.04,00:19:23,LN,22,4,0," 4           Q      Sure.  Brian, will you go to the very",,0
+553,1164.35,00:19:24,LN,22,5,0," 5 last page, please.",,0
+554,1165.72,00:19:25,LN,22,6,0, 6           A      Okay.  Okay.  All right.,,0
+555,1171.67,00:19:31,LN,22,7,0, 7                  So it was sometime after May 6th of,,0
+556,1178.78,00:19:38,LN,22,8,0, 8 this year.,,0
+557,1180.98,00:19:40,LN,22,9,0, 9           Q      Okay.  Does this appear current to,,0
+558,1183.734,00:19:43,LN,22,10,0,10 you?,,0
+559,1184.01,00:19:44,LN,22,11,0,11           A      No.  I mean I think I have a more,,0
+560,1186.99,00:19:46,LN,22,12,0,12 updated version and I will say that there may be cases,,0
+561,1194.6,00:19:54,LN,22,13,0,13 that I inadvertently did not list on this case.  It's,,0
+562,1196.84,00:19:56,LN,22,14,0,"14 not a hundred percent, but I think it's over",,0
+563,1199.6899,00:19:59,LN,22,15,0,15 90 percent.,,0
+564,1202.08,00:20:02,LN,22,16,0,16           Q      So why would you have had anything,,0
+565,1203.92,00:20:03,LN,22,17,0,17 omitted on this list?,,0
+566,1205.67,00:20:05,LN,22,18,0,18           A      I didn't omit it.  I just failed to,,0
+567,1209.2,00:20:09,LN,22,19,0,19 enter it.,,0
+568,1213.74,00:20:13,LN,22,20,0,"20           Q      I think we're in semantics now,",,0
+569,1216.53,00:20:16,LN,22,21,0,"21 Doctor.  If it's not here, it's been omitted.  I think",,0
+570,1218.675,00:20:18,LN,22,22,0,22 what you are trying to tell me is you didn't do it,,0
+571,1221.34,00:20:21,LN,22,23,0,23 purposefully.  You just couldn't recall or didn't think,,0
+572,1223.4,00:20:23,LN,22,24,0,24 about it at the time.,,0
+573,1224.1,00:20:24,LN,22,25,0,25                  Is that what you meant?,,0
+574,,,PG,23,0,0,Page 23,,0
+575,1225.5601,00:20:25,LN,23,1,0, 1                  MR. LAREY:  I'm going to object.,,0
+576,1226.64,00:20:26,LN,23,2,0," 2           A      Well, yeah.",,0
+577,1226.8621,00:20:26,LN,23,3,0," 3                  I mean I think ""omitted"" means that",,0
+578,1227.84,00:20:27,LN,23,4,0," 4 you deliberately left it off the list, because if I do",,0
+579,1235.05,00:20:35,LN,23,5,0, 5 a deposition and if I don't necessarily put it on the,,0
+580,1238.1801,00:20:38,LN,23,6,0, 6 list right away I may forget at a future date to put it,,0
+581,1241.58,00:20:41,LN,23,7,0, 7 on the list.,,0
+582,1242.88,00:20:42,LN,23,8,0, 8           Q      All right.,,0
+583,1243.2,00:20:43,LN,23,9,0, 9                  So we're going with this as 90 percent,,0
+584,1245.25,00:20:45,LN,23,10,0,10 accurate?,,0
+585,1246.067,00:20:46,LN,23,11,0,11           A      I think so.,,0
+586,1247.02,00:20:47,LN,23,12,0,"12                  MR. LAREY:  Objection, form.",,0
+587,1247.55,00:20:47,LN,23,13,0,"13           A      I think that would be fair, yes.",,0
+588,,,LN,23,14,0,14 BY MR. WILMORE:,,0
+589,1250.0601,00:20:50,LN,23,15,0,15           Q      All right.,,0
+590,1251.64,00:20:51,LN,23,16,0,16                  Is there a way for us to tell whether,,0
+591,1253.9301,00:20:53,LN,23,17,0,17 the entries on here are for trial or for deposition or,,0
+592,1258.702,00:20:58,LN,23,18,0,18 both?,,0
+593,1259.08,00:20:59,LN,23,19,0,"19           A      No, not that I know of.",,0
+594,1262.37,00:21:02,LN,23,20,0,20           Q      You don't keep that as in the cases,,0
+595,1264.42,00:21:04,LN,23,21,0,21 where you are deposed or you appear at trial?,,0
+596,1267.97,00:21:07,LN,23,22,0,22           A      It's my understanding I am supposed to,,0
+597,1270.5699,00:21:10,LN,23,23,0,23 -- supposed to list cases that I have given testimony.,,0
+598,1273.952,00:21:13,LN,23,24,0,24           Q      Okay.,,0
+599,1274.22,00:21:14,LN,23,25,0,"25           A      At trial, deposition or both.",,0
+600,,,PG,24,0,0,Page 24,,0
+601,1277.24,00:21:17,LN,24,1,0, 1           Q      All right.,,0
+602,1280.36,00:21:20,LN,24,2,0, 2                  What types of cases do you normally,,0
+603,1282.59,00:21:22,LN,24,3,0, 3 provide expert services on?,,0
+604,1288.2,00:21:28,LN,24,4,0," 4           A      Well, medical malpractice generally or",,0
+605,1290.55,00:21:30,LN,24,5,0, 5 personal injury cases.,,0
+606,1297.6,00:21:37,LN,24,6,0, 6           Q      I think -- I think I read a deposition,,0
+607,1300.65,00:21:40,LN,24,7,0," 7 from you maybe the Llerena case, but I think you",,0
+608,1306.11,00:21:46,LN,24,8,0, 8 described kind of your representation of personal,,0
+609,1308.99,00:21:48,LN,24,9,0," 9 injury matters as cases typically involving planes,",,0
+610,1312.98,00:21:52,LN,24,10,0,10 trains or automobiles.,,0
+611,1314.87,00:21:54,LN,24,11,0,11                  Does that -- does that sound familiar,,0
+612,1320.067,00:22:00,LN,24,12,0,12 to you?,,0
+613,1320.97,00:22:00,LN,24,13,0,13           A      I'm not saying it's necessarily,,0
+614,1322.6,00:22:02,LN,24,14,0,14 incorrect but it's not -- I don't remember saying it,,0
+615,1326.14,00:22:06,LN,24,15,0,15 quite that way.,,0
+616,1327.52,00:22:07,LN,24,16,0,"16           Q      Okay.  Well, let's do it this way.",,0
+617,1330.76,00:22:10,LN,24,17,0,17                  For personal injury matters do you,,0
+618,1333.8409,00:22:13,LN,24,18,0,18 often -- are you often involved as an expert in,,0
+619,1337.13,00:22:17,LN,24,19,0,19 automobile accidents?,,0
+620,1338.991,00:22:18,LN,24,20,0,20           A      Yes.,,0
+621,1339.5081,00:22:19,LN,24,21,0,21           Q      Okay.,,0
+622,1340.9561,00:22:20,LN,24,22,0,22                  Are you sometimes or often an expert,,0
+623,1343.97,00:22:23,LN,24,23,0,23 in train accidents?,,0
+624,1346.35,00:22:26,LN,24,24,0,24           A      I think there was one train accident I,,0
+625,1348.25,00:22:28,LN,24,25,0,25 testified in federal court a number of years ago.,,0
+626,,,PG,25,0,0,Page 25,,0
+627,1352.09,00:22:32,LN,25,1,0, 1           Q      Okay.,,0
+628,1352.42,00:22:32,LN,25,2,0, 2                  What about airplane accidents or,,0
+629,1354.52,00:22:34,LN,25,3,0, 3 helicopter accidents?,,0
+630,1356.14,00:22:36,LN,25,4,0, 4           A      I can't recall any airplane or,,0
+631,1357.99,00:22:37,LN,25,5,0, 5 helicopter accidents.,,0
+632,1360.022,00:22:40,LN,25,6,0, 6           Q      Okay.,,0
+633,1360.36,00:22:40,LN,25,7,0, 7                  So the vast majority of the type of,,0
+634,1362.89,00:22:42,LN,25,8,0, 8 personal injury matters would involve automobile,,0
+635,1365.62,00:22:45,LN,25,9,0, 9 accidents?  Is that fair?,,0
+636,1369.66,00:22:49,LN,25,10,0,10           A      I think there's a good percentage that,,0
+637,1372.4,00:22:52,LN,25,11,0,11 are automobile accidents.  There is also trip and fall,,0
+638,1375.8199,00:22:55,LN,25,12,0,"12 or slip and fall type accidents, that type of thing.",,0
+639,1382.282,00:23:02,LN,25,13,0,13           Q      Okay.,,0
+640,1385.077,00:23:05,LN,25,14,0,14                  Would you say automobile accidents are,,0
+641,1385.89,00:23:05,LN,25,15,0,15 your primary and the slip and fall would be the,,0
+642,1389.389,00:23:09,LN,25,16,0,16 secondary?,,0
+643,1390.37,00:23:10,LN,25,17,0,17           A      I think it's probably automobile cases,,0
+644,1395.8199,00:23:15,LN,25,18,0,18 or automobile accidents are probably more common.,,0
+645,1399.333,00:23:19,LN,25,19,0,19           Q      Okay.,,0
+646,1403.96,00:23:23,LN,25,20,0,20                  Have you previously handled personal,,0
+647,1405.6899,00:23:25,LN,25,21,0,21 injury matters related to toxic exposures?,,0
+648,1413.86,00:23:33,LN,25,22,0,"22           A      Well, I have handled medical",,0
+649,1415.8101,00:23:35,LN,25,23,0,23 malpractice matters related to pharmaceutical agents,,0
+650,1424.0,00:23:44,LN,25,24,0,24 that could be toxic if given in an inappropriate,,0
+651,1427.5601,00:23:47,LN,25,25,0,"25 fashion or inappropriate doses, but I don't think -- I",,0
+652,,,PG,26,0,0,Page 26,,0
+653,1432.83,00:23:52,LN,26,1,0, 1 can't the recall an environmental case.,,0
+654,1435.974,00:23:55,LN,26,2,0, 2           Q      Okay.,,0
+655,1436.3101,00:23:56,LN,26,3,0," 3                  What about an occupational case,",,0
+656,1438.4301,00:23:58,LN,26,4,0, 4 occupational exposure to toxic substances?,,0
+657,1446.21,00:24:06,LN,26,5,0, 5           A      I can't recall a case like that.,,0
+658,1449.0031,00:24:09,LN,26,6,0, 6           Q      Okay.,,0
+659,1449.42,00:24:09,LN,26,7,0, 7                  And you said that these medical,,0
+660,1452.05,00:24:12,LN,26,8,0, 8 malpractice pharma-type cases -- is that in the,,0
+661,1456.47,00:24:16,LN,26,9,0, 9 improper prescribing of drugs or amounts of drugs to,,0
+662,1461.058,00:24:21,LN,26,10,0,10 patients?,,0
+663,1465.74,00:24:25,LN,26,11,0,11           A      I think it's primarily not so much,,0
+664,1471.0699,00:24:31,LN,26,12,0,12 prescribing but administering radiopharmaceuticals or,,0
+665,1478.35,00:24:38,LN,26,13,0,13 radio -- radiology contrast agents.,,0
+666,1488.09,00:24:48,LN,26,14,0,14           Q      So it's a mistake in the,,0
+667,1489.8101,00:24:49,LN,26,15,0,15 administration of these substances?,,0
+668,1493.366,00:24:53,LN,26,16,0,16           A      Alleged.,,0
+669,1494.0,00:24:54,LN,26,17,0,17           Q      Alleged.  Okay.  Fair enough.  Fair,,0
+670,1495.75,00:24:55,LN,26,18,0,18 enough.  Thanks for keeping me straight.,,0
+671,1502.03,00:25:02,LN,26,19,0,19                  On this entire deposition and trial,,0
+672,1504.04,00:25:04,LN,26,20,0,20 testimony list is there any case that has anything to,,0
+673,1507.6899,00:25:07,LN,26,21,0,21 do with occupational or environmental exposures?,,0
+674,1512.92,00:25:12,LN,26,22,0,"22           A      I don't believe so, not that I can",,0
+675,1514.98,00:25:14,LN,26,23,0,"23 recall, no.",,0
+676,1518.074,00:25:18,LN,26,24,0,24           Q      Okay.,,0
+677,1519.4,00:25:19,LN,26,25,0,25                  Is this Boggs case the first time that,,0
+678,,,PG,27,0,0,Page 27,,0
+679,1521.67,00:25:21,LN,27,1,0, 1 you are rendering an expert opinion in a toxic exposure,,0
+680,1526.421,00:25:26,LN,27,2,0, 2 case?,,0
+681,1526.76,00:25:26,LN,27,3,0," 3           A      This type of case, yes, to my",,0
+682,1529.38,00:25:29,LN,27,4,0," 4 recollection, yes.",,0
+683,1537.08,00:25:37,LN,27,5,0, 5           Q      Fair enough.  Okay.,,0
+684,1538.98,00:25:38,LN,27,6,0, 6                  What is the percentage of time that --,,0
+685,1540.97,00:25:40,LN,27,7,0, 7 that you tend to devote to providing these expert,,0
+686,1545.563,00:25:45,LN,27,8,0, 8 services?,,0
+687,1549.16,00:25:49,LN,27,9,0," 9           A      Well, up until this year it was",,0
+688,1553.17,00:25:53,LN,27,10,0,10 approximately 15 percent of my time.,,0
+689,1556.5,00:25:56,LN,27,11,0,11                  Beginning around January of this year,,0
+690,1560.4,00:26:00,LN,27,12,0,"12 I cut back to half time, so it's probably a higher",,0
+691,1563.5,00:26:03,LN,27,13,0,"13 percent.  I haven't calculated it, but it could be 25",,0
+692,1568.9,00:26:08,LN,27,14,0,14 to 30 percent of my time beginning sometime in 2024,,0
+693,1574.37,00:26:14,LN,27,15,0,15 would be an estimate.,,0
+694,1576.5031,00:26:16,LN,27,16,0,16           Q      Okay.,,0
+695,1576.96,00:26:16,LN,27,17,0,17                  And I think you said you cut back.  I,,0
+696,1579.3101,00:26:19,LN,27,18,0,18 guess what you meant was you cut back from either the,,0
+697,1582.02,00:26:22,LN,27,19,0,19 clinical practice and/or teaching or both?,,0
+698,1587.5601,00:26:27,LN,27,20,0,"20           A      Clinical practice and teaching, yes.",,0
+699,1596.12,00:26:36,LN,27,21,0,21           Q      Okay.  And I see on your -- at least,,0
+700,1598.4301,00:26:38,LN,27,22,0,"22 the version of CV that I have, I have Collier Radiology",,0
+701,1603.25,00:26:43,LN,27,23,0,"23 that you are working for presently, and that is the",,0
+702,1605.64,00:26:45,LN,27,24,0,"24 company that does your expert services, right?",,0
+703,1608.3,00:26:48,LN,27,25,0,25           A      Does everything.  It's done through,,0
+704,,,PG,28,0,0,Page 28,,0
+705,1609.75,00:26:49,LN,28,1,0, 1 Collier Radiology.,,0
+706,1611.364,00:26:51,LN,28,2,0, 2           Q      Okay.,,0
+707,1611.71,00:26:51,LN,28,3,0," 3                  When you say ""everything"" what else do",,0
+708,1615.8199,00:26:55,LN,28,4,0, 4 you do through Collier?,,0
+709,1617.99,00:26:57,LN,28,5,0, 5           A      My medical practice.,,0
+710,1622.781,00:27:02,LN,28,6,0, 6           Q      Okay.,,0
+711,1623.6801,00:27:03,LN,28,7,0, 7                  And the reason I am asking is I saw,,0
+712,1625.37,00:27:05,LN,28,8,0, 8 something called The Heart of the Rockies Medical.  Is,,0
+713,1628.41,00:27:08,LN,28,9,0, 9 it a hospital or something?  Okay.,,0
+714,1630.86,00:27:10,LN,28,10,0,10                  Are you still working with them?,,0
+715,1634.546,00:27:14,LN,28,11,0,11           A      Yes.,,0
+716,1635.13,00:27:15,LN,28,12,0,12           Q      Okay.  And do you do work for them,,0
+717,1637.12,00:27:17,LN,28,13,0,13 through Collier?,,0
+718,1639.5601,00:27:19,LN,28,14,0,"14           A      Yeah.  Well, I don't work for the",,0
+719,1641.58,00:27:21,LN,28,15,0,15 hospital.  I'm on staff at the hospital.  I work with,,0
+720,1644.59,00:27:24,LN,28,16,0,16 the radiology group that's in the hospital.,,0
+721,1650.01,00:27:30,LN,28,17,0,17           Q      And do you do that through Collier?,,0
+722,1652.618,00:27:32,LN,28,18,0,18           A      Yes.,,0
+723,1653.01,00:27:33,LN,28,19,0,19           Q      Okay.  I got it.,,0
+724,1654.1,00:27:34,LN,28,20,0,20                  So all of your current work that you,,0
+725,1655.96,00:27:35,LN,28,21,0,21 do is through Collier.  You just may occasionally be at,,0
+726,1660.6,00:27:40,LN,28,22,0,22 different locations doing that work.,,0
+727,1665.675,00:27:45,LN,28,23,0,23                  Is that fair?,,0
+728,1667.3,00:27:47,LN,28,24,0,"24           A      Well, as of January I am only working",,0
+729,1671.24,00:27:51,LN,28,25,0,25 professionally at The Heart of the Rockies.  I am no,,0
+730,,,PG,29,0,0,Page 29,,0
+731,1673.42,00:27:53,LN,29,1,0, 1 longer working in Florida at this time.,,0
+732,1682.25,00:28:02,LN,29,2,0, 2           Q      All right.,,0
+733,1682.87,00:28:02,LN,29,3,0, 3                  So the only actual hospital where you,,0
+734,1685.22,00:28:05,LN,29,4,0, 4 are currently doing any type of clinical work is at The,,0
+735,1687.97,00:28:07,LN,29,5,0, 5 Heart of the Rockies?,,0
+736,1689.26,00:28:09,LN,29,6,0, 6           A      That is correct.,,0
+737,1690.64,00:28:10,LN,29,7,0, 7           Q      All right.,,0
+738,1691.23,00:28:11,LN,29,8,0, 8                  And are you still engaged or doing any,,0
+739,1693.0,00:28:13,LN,29,9,0, 9 work for Florida International and University College,,0
+740,1695.7,00:28:15,LN,29,10,0,10 of Medicine?,,0
+741,1697.33,00:28:17,LN,29,11,0,"11           A      Yeah, but I am on the faculty there.",,0
+742,1699.02,00:28:19,LN,29,12,0,12 I am not practicing medicine there.  I am teaching,,0
+743,1703.67,00:28:23,LN,29,13,0,13 medical students.,,0
+744,1705.39,00:28:25,LN,29,14,0,14           Q      Okay.  And what do you teach there?,,0
+745,1707.79,00:28:27,LN,29,15,0,15           A      Radiology.,,0
+746,1708.87,00:28:28,LN,29,16,0,16           Q      And you are going to have to pardon my,,0
+747,1713.28,00:28:33,LN,29,17,0,17 ignorance here because I didn't go to med school.,,0
+748,1716.25,00:28:36,LN,29,18,0,18                  Is it like radiology 101 or is it,,0
+749,1719.65,00:28:39,LN,29,19,0,19 interventional radiology or is it pulmonary radiology?,,0
+750,1723.5699,00:28:43,LN,29,20,0,20                  What is it you teach?,,0
+751,1725.84,00:28:45,LN,29,21,0,"21           A      Well, I would say I wouldn't use the",,0
+752,1728.16,00:28:48,LN,29,22,0,"22 term radiology 101, but basic radiology encompassing",,0
+753,1737.35,00:28:57,LN,29,23,0,23 different areas of radiology.,,0
+754,1740.8,00:29:00,LN,29,24,0,24                  It's probably -- I may be giving an,,0
+755,1744.03,00:29:04,LN,29,25,0,25 overview of interventional.  I may be discussing basic,,0
+756,,,PG,30,0,0,Page 30,,0
+757,1748.2,00:29:08,LN,30,1,0," 1 interpretation of chest x-rays, of CT scans and so on,",,0
+758,1753.41,00:29:13,LN,30,2,0, 2 the appropriateness of the tests and so on.,,0
+759,1758.87,00:29:18,LN,30,3,0, 3           Q      It's all types of radiology then?,,0
+760,1760.66,00:29:20,LN,30,4,0, 4 Kind of an overview of all types of radiology?,,0
+761,1763.639,00:29:23,LN,30,5,0, 5           A      Yes.,,0
+762,1764.28,00:29:24,LN,30,6,0, 6           Q      Understood.,,0
+763,1765.85,00:29:25,LN,30,7,0, 7                  And do you teach any other classes,,0
+764,1768.869,00:29:28,LN,30,8,0, 8 there?,,0
+765,1769.28,00:29:29,LN,30,9,0," 9           A      Other than radiology, no.",,0
+766,1774.3101,00:29:34,LN,30,10,0,10           Q      Yeah.  Is that for med students or for,,0
+767,1776.259,00:29:36,LN,30,11,0,11 residents?,,0
+768,1776.9301,00:29:36,LN,30,12,0,12           A      Med students.,,0
+769,1778.682,00:29:38,LN,30,13,0,13           Q      Okay.,,0
+770,1779.16,00:29:39,LN,30,14,0,14                  And do you do that in person or via,,0
+771,1782.54,00:29:42,LN,30,15,0,15 video like this now?,,0
+772,1784.58,00:29:44,LN,30,16,0,16           A      I have done it both.,,0
+773,1786.3,00:29:46,LN,30,17,0,17           Q      Okay.  These days -- when is the next,,0
+774,1788.39,00:29:48,LN,30,18,0,18 time you teach a class?,,0
+775,1789.2,00:29:49,LN,30,19,0,19                  Are you teaching now?,,0
+776,1791.33,00:29:51,LN,30,20,0,"20           A      Well, not today, but I think I have a",,0
+777,1795.04,00:29:55,LN,30,21,0,21 lecture scheduled next month.,,0
+778,1798.2841,00:29:58,LN,30,22,0,22           Q      Okay.,,0
+779,1798.77,00:29:58,LN,30,23,0,23                  How often do you give lectures?,,0
+780,1802.8199,00:30:02,LN,30,24,0,"24           A      It's varied, but probably six to eight",,0
+781,1806.83,00:30:06,LN,30,25,0,25 times a year.,,0
+782,,,PG,31,0,0,Page 31,,0
+783,1809.5129,00:30:09,LN,31,1,0, 1           Q      Okay.,,0
+784,1810.52,00:30:10,LN,31,2,0, 2                  And do most of those -- do you do most,,0
+785,1812.3,00:30:12,LN,31,3,0, 3 of those in person or you do most of those over like a,,0
+786,1814.8,00:30:14,LN,31,4,0, 4 zoom or something?,,0
+787,1816.96,00:30:16,LN,31,5,0, 5           A      I used to do most of those in person,,0
+788,1819.03,00:30:19,LN,31,6,0, 6 since I am in Colorado part-time.  I have done both in,,0
+789,1824.27,00:30:24,LN,31,7,0, 7 person and on zoom.,,0
+790,1829.535,00:30:29,LN,31,8,0, 8           Q      Okay.,,0
+791,1830.75,00:30:30,LN,31,9,0, 9                  Are you paid for that faculty work or,,0
+792,1832.25,00:30:32,LN,31,10,0,10 is that just like a service that you do kind of back,,0
+793,1835.03,00:30:35,LN,31,11,0,11 for the community?,,0
+794,1837.75,00:30:37,LN,31,12,0,"12           A      Well, I'm not paid for it.",,0
+795,1842.298,00:30:42,LN,31,13,0,13           Q      Okay.,,0
+796,1843.15,00:30:43,LN,31,14,0,14                  And so these days is it fair to say,,0
+797,1845.0,00:30:45,LN,31,15,0,15 that all of your compensation that you receive comes,,0
+798,1847.64,00:30:47,LN,31,16,0,16 through Collier Radiology both for your expert work and,,0
+799,1850.83,00:30:50,LN,31,17,0,17 for your clinical work at Heart of the Rockies?,,0
+800,1854.3199,00:30:54,LN,31,18,0,"18           A      For my professional medical work, yes.",,0
+801,1858.55,00:30:58,LN,31,19,0,19           Q      Do you have another business or stream,,0
+802,1861.45,00:31:01,LN,31,20,0,20 of income?,,0
+803,1866.0699,00:31:06,LN,31,21,0,21           A      Yes.,,0
+804,1868.05,00:31:08,LN,31,22,0,22           Q      And what does that relate to?,,0
+805,1872.01,00:31:12,LN,31,23,0,23           A      Investments.,,0
+806,1873.99,00:31:13,LN,31,24,0,24           Q      Like stocks and bonds and stuff like,,0
+807,1876.704,00:31:16,LN,31,25,0,25 that?,,0
+808,,,PG,32,0,0,Page 32,,0
+809,1877.02,00:31:17,LN,32,1,0," 1           A      Real-estate and that kind of thing,",,0
+810,1879.791,00:31:19,LN,32,2,0, 2 yes.,,0
+811,1880.4,00:31:20,LN,32,3,0, 3           Q      Okay.,,0
+812,1880.5601,00:31:20,LN,32,4,0, 4                  And is that for your own personal,,0
+813,1881.962,00:31:21,LN,32,5,0, 5 investments you mean?,,0
+814,1884.2209,00:31:24,LN,32,6,0, 6           A      Yes.,,0
+815,1885.095,00:31:25,LN,32,7,0, 7           Q      Okay.,,0
+816,1897.63,00:31:37,LN,32,8,0," 8                  Now, earlier we talked that your work",,0
+817,1900.92,00:31:40,LN,32,9,0, 9 -- most of your work falls in and all of your personal,,0
+818,1903.74,00:31:43,LN,32,10,0,10 injury work falls into either the automobile accident,,0
+819,1907.7,00:31:47,LN,32,11,0,11 or slip and fall category.,,0
+820,1911.2,00:31:51,LN,32,12,0,12                  Are those -- are those tend to be like,,0
+821,1912.75,00:31:52,LN,32,13,0,"13 impact injuries to necks, backs, bones and things like",,0
+822,1918.787,00:31:58,LN,32,14,0,14 that?,,0
+823,1919.29,00:31:59,LN,32,15,0,"15           A      First of all, you said ""all.""  I don't",,0
+824,1920.87,00:32:00,LN,32,16,0,16 think it's all.,,0
+825,1922.963,00:32:02,LN,32,17,0,17                  I said the majority of the personal,,0
+826,1926.77,00:32:06,LN,32,18,0,"18 injury work is probably motor vehicle accidents, slip",,0
+827,1931.47,00:32:11,LN,32,19,0,"19 and fall stuff, along those lines, but it could be any",,0
+828,1938.35,00:32:18,LN,32,20,0,"20 body part, but I would say that the spine is probably a",,0
+829,1942.62,00:32:22,LN,32,21,0,21 common area of alleged injuries.,,0
+830,1946.202,00:32:26,LN,32,22,0,22           Q      Okay.,,0
+831,1946.6899,00:32:26,LN,32,23,0,"23                  Well, you kind of straightened me out",,0
+832,1948.26,00:32:28,LN,32,24,0,24 here on the types of work.  You said the majority of,,0
+833,1950.8571,00:32:30,LN,32,25,0,25 personal injury is automobile accidents and slip and,,0
+834,,,PG,33,0,0,Page 33,,0
+835,1953.14,00:32:33,LN,33,1,0, 1 falls.  What did I miss out on?,,0
+836,1954.23,00:32:34,LN,33,2,0, 2                  What other type of personal injury,,0
+837,1955.9,00:32:35,LN,33,3,0," 3 cases do you provide expert work in, not med mal, just",,0
+838,1960.4,00:32:40,LN,33,4,0, 4 the personal injury side?,,0
+839,1962.031,00:32:42,LN,33,5,0, 5           A      I mean there has been boating,,0
+840,1963.74,00:32:43,LN,33,6,0, 6 accidents.  I'd have to think of other things.  I mean,,0
+841,1969.552,00:32:49,LN,33,7,0, 7 there has been other things.  I'm trying to think of,,0
+842,1984.731,00:33:04,LN,33,8,0, 8 another case that didn't involve a slip and fall or an,,0
+843,1987.1801,00:33:07,LN,33,9,0," 9 automobile accident.  Altercations, that type of thing.",,0
+844,1996.22,00:33:16,LN,33,10,0,10           Q      Like a fist fight like a somebody done,,0
+845,1998.35,00:33:18,LN,33,11,0,11 somebody wrong kind of thing?,,0
+846,2000.64,00:33:20,LN,33,12,0,"12           A      Fist fight, gunshot injury.",,0
+847,2004.2,00:33:24,LN,33,13,0,"13           Q      Oh, good lord.  All right.  All right.",,0
+848,2009.1899,00:33:29,LN,33,14,0,"14                  Well, all of those -- I'm sorry.",,0
+849,2015.23,00:33:35,LN,33,15,0,15           A      I know we stepped over each other with,,0
+850,2017.04,00:33:37,LN,33,16,0,"16 zoom, so there's no apology necessary.",,0
+851,2022.36,00:33:42,LN,33,17,0,17                  Now what was I thinking?  I can't,,0
+852,2031.17,00:33:51,LN,33,18,0,"18 remember, but I don't think it was too important.  Go",,0
+853,2033.256,00:33:53,LN,33,19,0,19 ahead.,,0
+854,2034.417,00:33:54,LN,33,20,0,20           Q      Yeah.,,0
+855,2034.921,00:33:54,LN,33,21,0,21                  I think you mentioned when I asked,,0
+856,2036.1899,00:33:56,LN,33,22,0,22 about impact injuries I think we were in agreement that,,0
+857,2039.12,00:33:59,LN,33,23,0,23 the vast majority of your work relates to some sort of,,0
+858,2042.04,00:34:02,LN,33,24,0,"24 impact injuries, and I think you corrected me and you",,0
+859,2044.6801,00:34:04,LN,33,25,0,25 said mostly on spines.,,0
+860,,,PG,34,0,0,Page 34,,0
+861,2046.6801,00:34:06,LN,34,1,0, 1                  Is that right?,,0
+862,2047.9399,00:34:07,LN,34,2,0, 2           A      No.  I thought you said all of the,,0
+863,2050.3999,00:34:10,LN,34,3,0, 3 personal injury work is either slip and fall or,,0
+864,2055.1001,00:34:15,LN,34,4,0," 4 motor-vehicle accidents.  And I said, well, not all,",,0
+865,2059.2,00:34:19,LN,34,5,0, 5 but certainly the majority of it slip and fall or,,0
+866,2062.05,00:34:22,LN,34,6,0, 6 automobile accidents.,,0
+867,2064.03,00:34:24,LN,34,7,0, 7           Q      Yeah.  I think we're clear.  I think,,0
+868,2065.4099,00:34:25,LN,34,8,0," 8 we're good on that, Doctor.",,0
+869,2066.5559,00:34:26,LN,34,9,0, 9           A      Okay.,,0
+870,2066.77,00:34:26,LN,34,10,0,10           Q      I am asking now -- for your radiologic,,0
+871,2071.29,00:34:31,LN,34,11,0,"11 review in these cases and you mentioned all body parts,",,0
+872,2075.8799,00:34:35,LN,34,12,0,"12 I think, but do you tend to focus in most cases is that",,0
+873,2080.3701,00:34:40,LN,34,13,0,13 usually the spine either cervical or lumbar?,,0
+874,2085.3899,00:34:45,LN,34,14,0,"14           A      Well, I would say cervical and lumbar",,0
+875,2087.3201,00:34:47,LN,34,15,0,15 is probably the most frequent alleged areas of injury.,,0
+876,2092.8201,00:34:52,LN,34,16,0,16           Q      And so naturally that's where you find,,0
+877,2094.6201,00:34:54,LN,34,17,0,17 that you are hired in a lot of those cases?,,0
+878,2097.21,00:34:57,LN,34,18,0,18           A      Yeah.  But many of those cases involve,,0
+879,2100.51,00:35:00,LN,34,19,0,"19 somebody is alleging injury to the cervical spine,",,0
+880,2103.1101,00:35:03,LN,34,20,0,"20 thoracic spine, lumbar spine, left shoulder, right",,0
+881,2107.8799,00:35:07,LN,34,21,0,"21 knee, left hand, and so on and so forth.",,0
+882,2113.981,00:35:13,LN,34,22,0,22           Q      Understood.,,0
+883,2115.8601,00:35:15,LN,34,23,0,"23                  Now, since you've cut back from the",,0
+884,2117.5801,00:35:17,LN,34,24,0,24 clinical practice at the beginning of the year have you,,0
+885,2122.21,00:35:22,LN,34,25,0,25 tended to sign up more litigation cases than you've,,0
+886,,,PG,35,0,0,Page 35,,0
+887,2125.54,00:35:25,LN,35,1,0, 1 done in the past?,,0
+888,2130.3,00:35:30,LN,35,2,0," 2           A      I don't think so, no.  I'm trying to",,0
+889,2132.1399,00:35:32,LN,35,3,0, 3 cut back.,,0
+890,2137.5901,00:35:37,LN,35,4,0," 4           Q      These days especially, you know, since",,0
+891,2140.98,00:35:40,LN,35,5,0, 5 it's become a larger part of your practice beginning in,,0
+892,2144.8601,00:35:44,LN,35,6,0, 6 2024 is there a split that you would say you tend to be,,0
+893,2150.03,00:35:50,LN,35,7,0, 7 more defense or plaintiff or is it just a toss up?,,0
+894,2160.78,00:36:00,LN,35,8,0," 8           A      I haven't done a statistical analysis,",,0
+895,2163.23,00:36:03,LN,35,9,0, 9 but I think it's the percentages probably remain the,,0
+896,2167.3799,00:36:07,LN,35,10,0,"10 same of the cases that I receive, the ballpark.  It's",,0
+897,2174.9309,00:36:14,LN,35,11,0,11 50/50 plaintiff and defense.  Of the cases that I,,0
+898,2178.25,00:36:18,LN,35,12,0,12 testify in it's a preponderance of defense cases.,,0
+899,2185.2,00:36:25,LN,35,13,0,"13           Q      When you say when you testify, and you",,0
+900,2186.6899,00:36:26,LN,35,14,0,14 mean the ones that actually go to trial?,,0
+901,2189.0701,00:36:29,LN,35,15,0,"15           A      No, just go to deposition and/or",,0
+902,2192.1899,00:36:32,LN,35,16,0,"16 trial, so most of them are depositions.",,0
+903,2195.6909,00:36:35,LN,35,17,0,17           Q      Okay.,,0
+904,2196.0801,00:36:36,LN,35,18,0,"18                  So you are hired equally 50/50, but",,0
+905,2198.71,00:36:38,LN,35,19,0,19 you tend to be deposed more and/or go to trial when you,,0
+906,2203.1599,00:36:43,LN,35,20,0,20 are representing the defense?,,0
+907,2205.8091,00:36:45,LN,35,21,0,21           A      Yes.,,0
+908,2208.125,00:36:48,LN,35,22,0,22           Q      Okay.,,0
+909,2214.0901,00:36:54,LN,35,23,0,"23                  Is that true also -- now, I know we",,0
+910,2216.4299,00:36:56,LN,35,24,0,24 talked about med mal cases and personal injury cases.,,0
+911,2219.5239,00:36:59,LN,35,25,0,25                  Is that 50/50 split the same whether,,0
+912,,,PG,36,0,0,Page 36,,0
+913,2221.4099,00:37:01,LN,36,1,0, 1 we are talking about personal injury or med mal cases?,,0
+914,2227.8301,00:37:07,LN,36,2,0, 2           A      I'm not certain.,,0
+915,2229.77,00:37:09,LN,36,3,0, 3                  I think personal injury it may be a,,0
+916,2231.54,00:37:11,LN,36,4,0," 4 higher percent defense, but again those are ballpark",,0
+917,2236.561,00:37:16,LN,36,5,0, 5 numbers.,,0
+918,2238.2419,00:37:18,LN,36,6,0, 6           Q      Okay.,,0
+919,2242.21,00:37:22,LN,36,7,0, 7                  And the times that you have been,,0
+920,2244.8899,00:37:24,LN,36,8,0, 8 qualified and testified at trial has that always been,,0
+921,2249.0601,00:37:29,LN,36,9,0, 9 as a radiologist?,,0
+922,2252.583,00:37:32,LN,36,10,0,10           A      Yes.,,0
+923,2263.8601,00:37:43,LN,36,11,0,11           Q      And I think you told me that as far as,,0
+924,2266.3501,00:37:46,LN,36,12,0,12 you recall there were 10 or 12 times that you had,,0
+925,2269.8401,00:37:49,LN,36,13,0,"13 offered testimony in federal court, actual trial",,0
+926,2273.395,00:37:53,LN,36,14,0,14 testimony.,,0
+927,2274.3101,00:37:54,LN,36,15,0,15                  Am I saying that right?,,0
+928,2277.51,00:37:57,LN,36,16,0,16           A      Probably ballpark.  I think I said I,,0
+929,2279.48,00:37:59,LN,36,17,0,17 appeared and testified in federal trial approximately,,0
+930,2283.8201,00:38:03,LN,36,18,0,18 12 times.  It could be more.  It could be less.,,0
+931,2287.99,00:38:07,LN,36,19,0,19           Q      Okay.,,0
+932,2288.4199,00:38:08,LN,36,20,0,20                  As you sit here today do you remember,,0
+933,2291.0,00:38:11,LN,36,21,0,21 whether those were personal injury or med mal cases?,,0
+934,2295.418,00:38:15,LN,36,22,0,22           A      Both.,,0
+935,2297.6201,00:38:17,LN,36,23,0,23           Q      Okay.,,0
+936,2298.0281,00:38:18,LN,36,24,0,24                  In the personal injury cases do you,,0
+937,2299.3301,00:38:19,LN,36,25,0,25 remember what body part you might have been testifying,,0
+938,,,PG,37,0,0,Page 37,,0
+939,2305.47,00:38:25,LN,37,1,0, 1 about as a radiologist?,,0
+940,2311.1201,00:38:31,LN,37,2,0," 2           A      Well, it could be -- it could be any",,0
+941,2314.6399,00:38:34,LN,37,3,0, 3 body part.  I mean I'm sure there were cases I,,0
+942,2319.5601,00:38:39,LN,37,4,0, 4 testified about the spine.  I know cases I have,,0
+943,2323.73,00:38:43,LN,37,5,0," 5 testified about the brain, the abdomen and the GI",,0
+944,2330.407,00:38:50,LN,37,6,0, 6 tract.,,0
+945,2333.1299,00:38:53,LN,37,7,0, 7           Q      Have you ever testified about the,,0
+946,2338.1399,00:38:58,LN,37,8,0, 8 chest from a pulmonology standpoint -- from a pulmonary,,0
+947,2344.54,00:39:04,LN,37,9,0, 9 and radiology standpoint in a federal court?,,0
+948,2349.48,00:39:09,LN,37,10,0,"10           A      I believe so, yes.",,0
+949,2351.0701,00:39:11,LN,37,11,0,11           Q      Okay.  Tell me about that one.,,0
+950,2353.29,00:39:13,LN,37,12,0,12           A      I can't remember the specific name of,,0
+951,2356.073,00:39:16,LN,37,13,0,13 the case.,,0
+952,2356.5901,00:39:16,LN,37,14,0,14           Q      Okay.  What was that about?,,0
+953,2365.4399,00:39:25,LN,37,15,0,"15           A      Well, I believe there were cases.  I'm",,0
+954,2371.98,00:39:31,LN,37,16,0,16 trying to recall whether or not -- it was some time,,0
+955,2375.98,00:39:35,LN,37,17,0,"17 ago.  Pulmonary embolus, lung cancer, trauma to the",,0
+956,2387.5801,00:39:47,LN,37,18,0,"18 chest, pulmonary hemorrhage.  I think there was an",,0
+957,2400.8701,00:40:00,LN,37,19,0,"19 asbestos case a while back, mesothelioma.  That's --",,0
+1068,,,PG,42,0,0,Page 42,,0
+1074,,,LN,42,6,0, 6                  (Exhibit 3 marked.),,0
+1075,,,LN,42,7,0, 7 BY MR. WILMORE:,,0
+1406,,,PG,55,0,0,Page 55,,0
+1420,,,LN,55,14,0,14                  (Break taken.),,0
+1423,,,LN,55,17,0,17 BY MR. WILMORE:,,0
+1510,,,PG,59,0,0,Page 59,,0
+1530,,,LN,59,20,0,20                  (Exhibit 4 marked.),,0
+1588,,,PG,62,0,0,Page 62,,0
+1606,,,LN,62,18,0,18                  (Exhibit 5 marked.),,0
+1640,,,PG,64,0,0,Page 64,,0
+1662,,,LN,64,22,0,22 BY MR. WILMORE:,,0
+1796,,,PG,70,0,0,Page 70,,0
+1818,,,LN,70,22,0,22 BY MR. WILMORE:,,0
+1822,,,PG,71,0,0,Page 71,,0
+1832,,,LN,71,10,0,10 BY MR. WILMORE:,,0
+1848,,,PG,72,0,0,Page 72,,0
+1859,,,LN,72,11,0,11 BY MR. WILMORE:,,0
+1874,,,PG,73,0,0,Page 73,,0
+1885,,,LN,73,11,0,11 BY MR. WILMORE:,,0
+1952,,,PG,76,0,0,Page 76,,0
+1958,,,LN,76,6,0, 6                  (Exhibit 6 marked.),,0
+2030,,,PG,79,0,0,Page 79,,0
+2054,,,LN,79,24,0,24 BY MR. WILMORE:,,0
+2108,,,PG,82,0,0,Page 82,,0
+2116,,,LN,82,8,0, 8 BY MR. WILMORE:,,0
+2212,,,PG,86,0,0,Page 86,,0
+2217,,,LN,86,5,0, 5 BY MR. WILMORE:,,0
+2368,,,PG,92,0,0,Page 92,,0
+2387,,,LN,92,19,0,19 BY MR. WILMORE:,,0
+2394,,,PG,93,0,0,Page 93,,0
+2406,,,LN,93,12,0,12 BY MR. WILMORE:,,0
+2550,,,PG,99,0,0,Page 99,,0
+2570,,,LN,99,20,0,20                  (Break taken.),,0
+2573,,,LN,99,23,0,23 BY MR. WILMORE:,,0
+3200,,,PG,124,0,0,Page 124,,0
+3220,,,LN,124,20,0,20                  (Break taken.),,0
+3223,,,LN,124,23,0,23 BY MR. WILMORE:,,0
+4318,,,PG,167,0,0,Page 167,,0
+4332,,,LN,167,14,0,14                  (Break taken.),,0
+4335,,,LN,167,17,0,17 BY MR. WILMORE:,,0
+4344,,,PG,168,0,0,Page 168,,0
+4368,,,LN,168,24,0,24                  (Exhibit 7 marked.),,0
+4526,,,PG,175,0,0,Page 175,,0
+4543,,,LN,175,17,0,17                  (Exhibit 8 marked.),,0
+4682,,,PG,181,0,0,Page 181,,0
+4697,,,LN,181,15,0,15                  (Exhibit 10 marked.),,0
+4812,,,PG,186,0,0,Page 186,,0
+4821,,,LN,186,9,0, 9                  (Exhibit 11 marked.),,0
+4828,,,LN,186,16,0,16                  (Exhibit 12 marked.),,0
+4838,,,PG,187,0,0,Page 187,,0
+4848,,,LN,187,10,0,10                  (Exhibit 13 marked.),,0
+4994,,,PG,193,0,0,Page 193,,0
+4997,,,LN,193,3,0, 3                  (Exhibit 14 marked.),,0
+5020,,,PG,194,0,0,Page 194,,0
+5031,,,LN,194,11,0,11                  (Exhibit 15 marked.),,0
+5042,,,LN,194,22,0,22                  (Break taken.),,0
+5045,,,LN,194,25,0,25 BY MR. WILMORE:,,0
+5150,,,PG,199,0,0,Page 199,,0
+5160,,,LN,199,10,0,10                  (Exhibit 16 marked.),,0
+5176,,,PG,200,0,0,Page 200,,0
+5188,,,LN,200,12,0,12                  (Exhibit 17 marked.),,0
+5462,,,PG,211,0,0,Page 211,,0
+5480,,,LN,211,18,0,18                  (Exhibit 18 marked.),,0
+5481,,,LN,211,19,0,19 BY MR. WILMORE:,,0
+5514,,,PG,213,0,0,Page 213,,0
+5525,,,LN,213,11,0,11                  (Exhibit 19 marked.),,0
+5540,,,PG,214,0,0,Page 214,,0
+5549,,,LN,214,9,0, 9                  (Exhibit 20 marked.),,0
+5800,,,PG,224,0,0,Page 224,,0
+5818,,,LN,224,18,0,18                  (Break taken.),,0
+5821,,,LN,224,21,0,21 BY MR. WILMORE:,,0
+5930,,,PG,229,0,0,Page 229,,0
+5951,,,LN,229,21,0,21                  (Deposition concluded at 10:25 PM.),,0
+5952,,,LN,229,22,0,22 ,,0
+5953,,,LN,229,23,0,23 ,,0
+5954,,,LN,229,24,0,24 ,,0
+5955,,,LN,229,25,0,25 ,,0
+5956,,,PG,230,0,0,Page 230,,0
+5957,,,LN,230,1,0," 1                     I, MARC KAYE, MD, do hereby certify",,0
+5958,,,LN,230,2,0, 2             that I have read the foregoing transcript,,0
+5959,,,LN,230,3,0, 3             and that the same and accompanying,,0
+5960,,,LN,230,4,0," 4             amendment sheets, if any, constitute a true",,0
+5961,,,LN,230,5,0, 5             and complete record of my testimony.,,0
+5962,,,LN,230,6,0, 6 ,,0
+5963,,,LN,230,7,0, 7 ,,0
+5964,,,LN,230,8,0, 8 ,,0
+5965,,,LN,230,8,0,                                  _______________________,,0
+5966,,,LN,230,9,0, 9                                Signature of Deponent,,0
+5967,,,LN,230,10,0,10                                ( ) No amendments,,0
+5968,,,LN,230,10,0,                                  ( ) Amendments attached,,0
+5969,,,LN,230,11,0,11 ,,0
+5970,,,LN,230,12,0,12                     Acknowledged before me this ______,,0
+5971,,,LN,230,13,0,13                     day of _____________ 2024.,,0
+5972,,,LN,230,14,0,14 ,,0
+5973,,,LN,230,15,0,15                     Notary Public: ___________________,,0
+5974,,,LN,230,16,0,16                     My Commission Expires ____________,,0
+5975,,,LN,230,17,0,17                     Seal:,,0
+5976,,,LN,230,18,0,18 ,,0
+5977,,,LN,230,19,0,19 ,,0
+5978,,,LN,230,20,0,20 ,,0
+5979,,,LN,230,21,0,21 ,,0
+5980,,,LN,230,22,0,22 ,,0
+5981,,,LN,230,23,0,23 ,,0
+5982,,,LN,230,24,0,24 ,,0
+5983,,,LN,230,25,0,25 ,,0
+5984,,,PG,231,0,0,Page 231,,0
+5985,,,LN,231,1,0, 1     STATE OF COLORADO),,0
+5986,,,LN,231,1,0,                        ) ss.     REPORTER'S CERTIFICATE,,0
+5987,,,LN,231,2,0, 2     COUNTY OF DENVER ),,0
+5988,,,LN,231,3,0," 3                     I, Annie Sager, certify that I am a",,0
+5989,,,LN,231,4,0, 4             Court Reporter and Notary Public within the,,0
+5990,,,LN,231,5,0, 5             State of Colorado; that previous to the,,0
+5991,,,LN,231,6,0, 6             commencement of the examination the,,0
+5992,,,LN,231,7,0, 7             deponent was duly sworn to testify to the,,0
+5993,,,LN,231,8,0, 8             truth.,,0
+5994,,,LN,231,9,0, 9                     I further certify that this,,0
+5995,,,LN,231,10,0,10             deposition was taken in shorthand by me at,,0
+5996,,,LN,231,11,0,11             the time and place herein set forth and was,,0
+5997,,,LN,231,12,0,12             thereafter reduced to typewritten form and,,0
+5998,,,LN,231,13,0,13             that the foregoing constitutes a true and,,0
+5999,,,LN,231,14,0,14             correct transcript.,,0
+6000,,,LN,231,15,0,15                     I further certify that I am not,,0
+6001,,,LN,231,16,0,"16             related to, employed by, nor of counsel for",,0
+6002,,,LN,231,17,0,"17             any of the parties or attorneys herein, nor",,0
+6003,,,LN,231,18,0,18             otherwise interested in the result of the,,0
+6004,,,LN,231,19,0,19             action.,,0
+6005,,,LN,231,20,0,"20                     In witness whereof, I have affixed",,0
+6006,,,LN,231,21,0,"21             my signature this 19th day of September, 2024.",,0
+6007,,,LN,231,22,0,"22                   My commission expires June 25, 2027.",,0
+6008,,,LN,231,23,0,23 ,,0
+6009,,,LN,231,24,0,24 ,,0
+6010,,,LN,231,24,0,                     Annie Sager,,0
+6011,,,LN,231,25,0,25 ,,0
